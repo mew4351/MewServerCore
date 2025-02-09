@@ -1,0 +1,151 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/marketcard_is",
+		"particle": "item/marketcard_is"
+	},
+	"elements": [
+		{
+			"name": "marketcard_qf_0",
+			"from": [-0.75, 7.5, -1.25],
+			"to": [3.25, 8.5, 10.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.75, 7.5, -2.25]},
+			"faces": {
+				"north": {"uv": [4, 1, 0, 2], "texture": "#0"},
+				"east": {"uv": [3, 1, 4, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 12, 4, 13], "texture": "#0"},
+				"west": {"uv": [0, 1, 1, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 1, 4, 13], "texture": "#0"},
+				"down": {"uv": [0, 13, 4, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "marketcard_qf_1",
+			"from": [8.25, 7.5, -1.25],
+			"to": [12.25, 8.5, 11.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.75, 7.5, -2.25]},
+			"faces": {
+				"north": {"uv": [13, 1, 9, 2], "texture": "#0"},
+				"east": {"uv": [12, 1, 13, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [9, 13, 13, 14], "texture": "#0"},
+				"west": {"uv": [9, 1, 10, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [9, 1, 13, 14], "texture": "#0"},
+				"down": {"uv": [9, 14, 13, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "marketcard_qf_2",
+			"from": [3.25, 7.5, -0.25],
+			"to": [8.25, 8.5, 11.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.75, 7.5, -2.25]},
+			"faces": {
+				"north": {"uv": [9, 2, 4, 3], "texture": "#0"},
+				"east": {"uv": [8, 2, 9, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 13, 9, 14], "texture": "#0"},
+				"west": {"uv": [4, 2, 5, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 2, 9, 14], "texture": "#0"},
+				"down": {"uv": [4, 14, 9, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "marketcard_qf_3",
+			"from": [12.25, 7.5, -0.25],
+			"to": [13.25, 8.5, 11.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.75, 7.5, -2.25]},
+			"faces": {
+				"north": {"uv": [14, 2, 13, 3], "texture": "#0"},
+				"east": {"uv": [13, 2, 14, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"west": {"uv": [13, 2, 14, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [13, 2, 14, 14], "texture": "#0"},
+				"down": {"uv": [13, 14, 14, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "marketcard_qf_4",
+			"from": [13.25, 7.5, 0.75],
+			"to": [14.25, 8.5, 11.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.75, 7.5, -2.25]},
+			"faces": {
+				"north": {"uv": [15, 3, 14, 4], "texture": "#0"},
+				"east": {"uv": [14, 3, 15, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [14, 13, 15, 14], "texture": "#0"},
+				"west": {"uv": [14, 3, 15, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [14, 3, 15, 14], "texture": "#0"},
+				"down": {"uv": [14, 14, 15, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "marketcard_qf_5",
+			"from": [14.25, 7.5, 1.75],
+			"to": [15.25, 8.5, 10.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.75, 7.5, -2.25]},
+			"faces": {
+				"north": {"uv": [16, 4, 15, 5], "texture": "#0"},
+				"east": {"uv": [15, 4, 16, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [15, 12, 16, 13], "texture": "#0"},
+				"west": {"uv": [15, 4, 16, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [15, 4, 16, 13], "texture": "#0"},
+				"down": {"uv": [15, 13, 16, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "marketcard_qf_6",
+			"from": [0.25, 7.5, 10.75],
+			"to": [3.25, 8.5, 11.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.75, 7.5, -2.25]},
+			"faces": {
+				"north": {"uv": [4, 13, 1, 14], "texture": "#0"},
+				"east": {"uv": [3, 13, 4, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [1, 13, 4, 14], "texture": "#0"},
+				"west": {"uv": [1, 13, 2, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [1, 13, 4, 14], "texture": "#0"},
+				"down": {"uv": [1, 14, 4, 13], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 0, 0.5],
+			"scale": [0.29, 0.29, 0.29]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -90],
+			"translation": [0, 0, 0.5],
+			"scale": [0.29, 0.29, 0.29]
+		},
+		"firstperson_righthand": {
+			"rotation": [118, 0, -88],
+			"translation": [0.75, 3, 1.25],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"firstperson_lefthand": {
+			"rotation": [118, 0, 90],
+			"translation": [0.75, 3, 1.25],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 0, 1.25],
+			"scale": [0.32, 0.32, 0.32]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0.75, -2.75, 0]
+		},
+		"fixed": {
+			"rotation": [-90, -180, 0],
+			"translation": [-0.75, -2, 0],
+			"scale": [0.84, 0.84, 0.84]
+		}
+	},
+	"groups": [
+		{
+			"name": "marketcard_qf",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

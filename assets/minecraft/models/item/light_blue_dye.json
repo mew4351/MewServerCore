@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/light_blue_dye"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 20},"model": "item/glass_lens"},
+    {"predicate": {"custom_model_data": 21},"model": "item/dense_lens"},
+    {"predicate": {"custom_model_data": 22},"model": "item/diamond_lens"}
+	]
+}

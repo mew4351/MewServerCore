@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond_helmet"
+  },
+  "overrides":
+  [
+    {"predicate": {"custom_model_data": 1},"model": "item/titaniumhelmet"},
+    {"predicate": {"custom_model_data": 2},"model": "item/mithrilhelmet"},
+    {"predicate": {"custom_model_data": 4},"model": "item/upgrade/diamond-helmet-modular"},
+    {"predicate": {"custom_model_data": 5},"model": "item/upgrade/titanium-helmet-modular"},
+    {"predicate": {"custom_model_data": 6},"model": "item/upgrade/mithril-helmet-modular"}
+
+  ]
+}

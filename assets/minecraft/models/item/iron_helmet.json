@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_helmet"
+  },
+  "overrides":
+  [
+  {"predicate": {"custom_model_data": 1},"model": "item/invarhelmet"},
+  {"predicate": {"custom_model_data": 2},"model": "item/ferroboronhelmet"},
+  {"predicate": {"custom_model_data": 3},"model": "item/bronzehelmet"},
+  {"predicate": {"custom_model_data": 4},"model": "item/titaniumhelmet"},
+  {"predicate": {"custom_model_data": 40},"model": "mob/fireknight_helmet.json"},
+  {"predicate": {"custom_model_data": 41},"model": "mob/forestknight_helmet.json"},
+  {"predicate": {"custom_model_data": 42},"model": "mob/snowknight_helmet.json"}
+  ]
+}

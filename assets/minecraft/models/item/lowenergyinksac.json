@@ -1,0 +1,178 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/lowenergyinksac",
+		"particle": "item/lowenergyinksac"
+	},
+	"elements": [
+		{
+			"name": "lowenergyinksac_0",
+			"from": [8.94444, 7.5, 2.33333],
+			"to": [11.94444, 8.5, 9.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [13, 3, 10, 4], "texture": "#0"},
+				"east": {"uv": [12, 3, 13, 10], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 9, 13, 10], "texture": "#0"},
+				"west": {"uv": [10, 3, 11, 10], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [10, 3, 13, 10], "texture": "#0"},
+				"down": {"uv": [10, 10, 13, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lowenergyinksac_1",
+			"from": [7.94444, 7.5, 3.33333],
+			"to": [8.94444, 8.5, 4.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [10, 4, 9, 5], "texture": "#0"},
+				"east": {"uv": [9, 4, 10, 5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [9, 4, 10, 5], "texture": "#0"},
+				"west": {"uv": [9, 4, 10, 5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [9, 4, 10, 5], "texture": "#0"},
+				"down": {"uv": [9, 5, 10, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lowenergyinksac_2",
+			"from": [11.94444, 7.5, 3.33333],
+			"to": [12.94444, 8.5, 7.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [14, 4, 13, 5], "texture": "#0"},
+				"east": {"uv": [13, 4, 14, 8], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [13, 7, 14, 8], "texture": "#0"},
+				"west": {"uv": [13, 4, 14, 8], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [13, 4, 14, 8], "texture": "#0"},
+				"down": {"uv": [13, 8, 14, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lowenergyinksac_3",
+			"from": [7.94444, 7.5, 5.33333],
+			"to": [8.94444, 8.5, 11.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [10, 6, 9, 7], "texture": "#0"},
+				"east": {"uv": [9, 6, 10, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [9, 11, 10, 12], "texture": "#0"},
+				"west": {"uv": [9, 6, 10, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [9, 6, 10, 12], "texture": "#0"},
+				"down": {"uv": [9, 12, 10, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lowenergyinksac_4",
+			"from": [4.94444, 7.5, 6.33333],
+			"to": [7.94444, 8.5, 12.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [9, 7, 6, 8], "texture": "#0"},
+				"east": {"uv": [8, 7, 9, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6, 12, 9, 13], "texture": "#0"},
+				"west": {"uv": [6, 7, 7, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6, 7, 9, 13], "texture": "#0"},
+				"down": {"uv": [6, 13, 9, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lowenergyinksac_5",
+			"from": [2.94444, 7.5, 7.33333],
+			"to": [4.94444, 8.5, 11.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [6, 8, 4, 9], "texture": "#0"},
+				"east": {"uv": [5, 8, 6, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 11, 6, 12], "texture": "#0"},
+				"west": {"uv": [4, 8, 5, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 8, 6, 12], "texture": "#0"},
+				"down": {"uv": [4, 12, 6, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lowenergyinksac_6",
+			"from": [1.94444, 7.5, 8.33333],
+			"to": [2.94444, 8.5, 10.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [4, 9, 3, 10], "texture": "#0"},
+				"east": {"uv": [3, 9, 4, 11], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3, 10, 4, 11], "texture": "#0"},
+				"west": {"uv": [3, 9, 4, 11], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3, 9, 4, 11], "texture": "#0"},
+				"down": {"uv": [3, 11, 4, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lowenergyinksac_7",
+			"from": [8.94444, 7.5, 9.33333],
+			"to": [10.94444, 8.5, 10.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [12, 10, 10, 11], "texture": "#0"},
+				"east": {"uv": [11, 10, 12, 11], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 10, 12, 11], "texture": "#0"},
+				"west": {"uv": [10, 10, 11, 11], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [10, 10, 12, 11], "texture": "#0"},
+				"down": {"uv": [10, 11, 12, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lowenergyinksac_8",
+			"from": [8.94444, 7.5, 10.33333],
+			"to": [9.94444, 8.5, 11.33333],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1.05556, 7.5, -0.66667]},
+			"faces": {
+				"north": {"uv": [11, 11, 10, 12], "texture": "#0"},
+				"east": {"uv": [10, 11, 11, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 11, 11, 12], "texture": "#0"},
+				"west": {"uv": [10, 11, 11, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [10, 11, 11, 12], "texture": "#0"},
+				"down": {"uv": [10, 12, 11, 11], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [77, 0, 0],
+			"translation": [0, 1, 0.75],
+			"scale": [0.21, 0.21, 0.21]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [77, 0, 0],
+			"translation": [0, 1, 0.75],
+			"scale": [0.21, 0.21, 0.21]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 0, 90],
+			"translation": [0, 4, 2.25],
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 0, -90],
+			"translation": [0, 4, 2.25],
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.33, 0.33, 0.33]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0.25, -0.25, 0]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0.25, -0.5, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "lowenergyinksac",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/emerald"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/equipment_mod/thiccshield"},
+    {"predicate": {"custom_model_data": 2},"model": "item/equipment_mod/memorythiccshield"},
+    {"predicate": {"custom_model_data": 3},"model": "item/equipment_mod/powermodule"},
+    {"predicate": {"custom_model_data": 4},"model": "item/equipment_mod/hypermagnet"},
+    {"predicate": {"custom_model_data": 5},"model": "item/equipment_mod/jetpack1"},
+    {"predicate": {"custom_model_data": 6},"model": "item/equipment_mod/longfalldamper"},
+    {"predicate": {"custom_model_data": 7},"model": "item/equipment_mod/manprop"},
+    {"predicate": {"custom_model_data": 8},"model": "item/equipment_mod/exoskeleton"},
+    {"predicate": {"custom_model_data": 9},"model": "item/equipment_mod/minirtg"},
+    {"predicate": {"custom_model_data": 10},"model": "item/equipment_mod/vitalcontraptionkit"},
+    {"predicate": {"custom_model_data": 11},"model": "item/equipment_mod/psychiccontraptionkit"},
+    {"predicate": {"custom_model_data": 20},"model": "item/moongem"},
+    {"predicate": {"custom_model_data": 40},"model": "item/tincoin"},
+    {"predicate": {"custom_model_data": 41},"model": "item/coppercoin"},
+    {"predicate": {"custom_model_data": 42},"model": "item/silvercoin"},
+    {"predicate": {"custom_model_data": 43},"model": "item/goldcoin"},
+    {"predicate": {"custom_model_data": 44},"model": "item/platinumcoin"},
+    {"predicate": {"custom_model_data": 45},"model": "item/diamondcoin"}
+	]
+}

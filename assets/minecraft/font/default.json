@@ -1,0 +1,9 @@
+			{
+         "type":"bitmap",
+         "file":"minecraft:guis/lvm/test.png",
+         "ascent":13,
+         "height":72,
+         "chars":[
+            "A"
+         ]
+      }

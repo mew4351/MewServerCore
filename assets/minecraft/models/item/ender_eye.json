@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/ender_eye"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/nc/gatewayorb"},
+    {"predicate": {"custom_model_data": 2},"model": "item/nc/anchororb"},
+    {"predicate": {"custom_model_data": 20},"model": "item/doranring"},
+    {"predicate": {"custom_model_data": 21},"model": "item/emerald_doranring"},
+    {"predicate": {"custom_model_data": 22},"model": "item/simpleemerald_doranring"},
+	
+    {"predicate": {"custom_model_data": 24},"model": "item/arcanesweeper"},
+    {"predicate": {"custom_model_data": 25},"model": "item/spell_barrier"}
+	]
+}

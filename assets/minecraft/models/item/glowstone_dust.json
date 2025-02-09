@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glowstone_dust"
+  },
+  "overrides":
+  [
+  {"predicate": {"custom_model_data": 40},"model": "item/oc/manapowder"},
+  {"predicate": {"custom_model_data": 41},"model": "item/oc/arcanapowder"}
+  ]
+}

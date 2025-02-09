@@ -1,0 +1,236 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/skin/fishsword",
+		"particle": "item/skin/fishsword"
+	},
+	"elements": [
+		{
+			"name": "fishsword_0",
+			"from": [10.61538, 7.5, 0.26923],
+			"to": [12.61538, 8.5, 5.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [13, 1, 11, 2], "texture": "#0"},
+				"east": {"uv": [12, 1, 13, 6], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [11, 5, 13, 6], "texture": "#0"},
+				"west": {"uv": [11, 1, 12, 6], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [11, 1, 13, 6], "texture": "#0"},
+				"down": {"uv": [11, 6, 13, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_1",
+			"from": [12.61538, 7.5, 1.26923],
+			"to": [13.61538, 8.5, 5.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [14, 2, 13, 3], "texture": "#0"},
+				"east": {"uv": [13, 2, 14, 6], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [13, 5, 14, 6], "texture": "#0"},
+				"west": {"uv": [13, 2, 14, 6], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [13, 2, 14, 6], "texture": "#0"},
+				"down": {"uv": [13, 6, 14, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_2",
+			"from": [9.61538, 7.5, 2.26923],
+			"to": [10.61538, 8.5, 10.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [11, 3, 10, 4], "texture": "#0"},
+				"east": {"uv": [10, 3, 11, 11], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 10, 11, 11], "texture": "#0"},
+				"west": {"uv": [10, 3, 11, 11], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [10, 3, 11, 11], "texture": "#0"},
+				"down": {"uv": [10, 11, 11, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_3",
+			"from": [13.61538, 7.5, 2.26923],
+			"to": [14.61538, 8.5, 5.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [15, 3, 14, 4], "texture": "#0"},
+				"east": {"uv": [14, 3, 15, 6], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [14, 5, 15, 6], "texture": "#0"},
+				"west": {"uv": [14, 3, 15, 6], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [14, 3, 15, 6], "texture": "#0"},
+				"down": {"uv": [14, 6, 15, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_4",
+			"from": [4.61538, 7.5, 3.26923],
+			"to": [6.61538, 8.5, 13.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [7, 4, 5, 5], "texture": "#0"},
+				"east": {"uv": [6, 4, 7, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5, 13, 7, 14], "texture": "#0"},
+				"west": {"uv": [5, 4, 6, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [5, 4, 7, 14], "texture": "#0"},
+				"down": {"uv": [5, 14, 7, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_5",
+			"from": [7.61538, 7.5, 3.26923],
+			"to": [9.61538, 8.5, 11.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [10, 4, 8, 5], "texture": "#0"},
+				"east": {"uv": [9, 4, 10, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 11, 10, 12], "texture": "#0"},
+				"west": {"uv": [8, 4, 9, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [8, 4, 10, 12], "texture": "#0"},
+				"down": {"uv": [8, 12, 10, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_6",
+			"from": [3.61538, 7.5, 4.26923],
+			"to": [4.61538, 8.5, 14.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [5, 5, 4, 6], "texture": "#0"},
+				"east": {"uv": [4, 5, 5, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 14, 5, 15], "texture": "#0"},
+				"west": {"uv": [4, 5, 5, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 5, 5, 15], "texture": "#0"},
+				"down": {"uv": [4, 15, 5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_7",
+			"from": [6.61538, 7.5, 4.26923],
+			"to": [7.61538, 8.5, 13.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [8, 5, 7, 6], "texture": "#0"},
+				"east": {"uv": [7, 5, 8, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [7, 13, 8, 14], "texture": "#0"},
+				"west": {"uv": [7, 5, 8, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7, 5, 8, 14], "texture": "#0"},
+				"down": {"uv": [7, 14, 8, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_8",
+			"from": [10.61538, 7.5, 5.26923],
+			"to": [11.61538, 8.5, 8.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [12, 6, 11, 7], "texture": "#0"},
+				"east": {"uv": [11, 6, 12, 9], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [11, 8, 12, 9], "texture": "#0"},
+				"west": {"uv": [11, 6, 12, 9], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [11, 6, 12, 9], "texture": "#0"},
+				"down": {"uv": [11, 9, 12, 6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_9",
+			"from": [2.61538, 7.5, 7.26923],
+			"to": [3.61538, 8.5, 14.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [4, 8, 3, 9], "texture": "#0"},
+				"east": {"uv": [3, 8, 4, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3, 14, 4, 15], "texture": "#0"},
+				"west": {"uv": [3, 8, 4, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3, 8, 4, 15], "texture": "#0"},
+				"down": {"uv": [3, 15, 4, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_10",
+			"from": [1.61538, 7.5, 9.26923],
+			"to": [2.61538, 8.5, 13.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [3, 10, 2, 11], "texture": "#0"},
+				"east": {"uv": [2, 10, 3, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2, 13, 3, 14], "texture": "#0"},
+				"west": {"uv": [2, 10, 3, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2, 10, 3, 14], "texture": "#0"},
+				"down": {"uv": [2, 14, 3, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_11",
+			"from": [7.61538, 7.5, 11.26923],
+			"to": [8.61538, 8.5, 12.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [9, 12, 8, 13], "texture": "#0"},
+				"east": {"uv": [8, 12, 9, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 12, 9, 13], "texture": "#0"},
+				"west": {"uv": [8, 12, 9, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [8, 12, 9, 13], "texture": "#0"},
+				"down": {"uv": [8, 13, 9, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fishsword_12",
+			"from": [4.61538, 7.5, 13.26923],
+			"to": [5.61538, 8.5, 14.26923],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.38462, 7.5, -0.73077]},
+			"faces": {
+				"north": {"uv": [6, 14, 5, 15], "texture": "#0"},
+				"east": {"uv": [5, 14, 6, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5, 14, 6, 15], "texture": "#0"},
+				"west": {"uv": [5, 14, 6, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [5, 14, 6, 15], "texture": "#0"},
+				"down": {"uv": [5, 15, 6, 14], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-127, 0, 90],
+			"translation": [0, 5, 2],
+			"scale": [1.2, 1.2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-127, 0, -90],
+			"translation": [0, 5, 2],
+			"scale": [1.2, 1.2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-120, 0, 90],
+			"translation": [-2.5, 6.75, 5.25],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-120, 0, -90],
+			"translation": [-2.5, 6.75, 5.25],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"ground": {
+			"rotation": [90, 45, 0],
+			"translation": [0, 0.5, 0],
+			"scale": [0.93, 0.93, 0.93]
+		},
+		"gui": {
+			"rotation": [90, -180, 0],
+			"translation": [0, 0.75, 0]
+		},
+		"fixed": {
+			"rotation": [90, -90, 0],
+			"translation": [-0.75, 0, -0.5],
+			"scale": [2.16, 2.16, 2.16]
+		}
+	},
+	"groups": [
+		{
+			"name": "fishsword",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+		}
+	]
+}

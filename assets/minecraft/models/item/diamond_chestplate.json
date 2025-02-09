@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond_chestplate"
+  },
+  "overrides":
+  [
+    {"predicate": {"custom_model_data": 1},"model": "item/titaniumchestplate"},
+    {"predicate": {"custom_model_data": 2},"model": "item/mithrilchestplate"},
+    {"predicate": {"custom_model_data": 3},"model": "item/whitechestplate"},
+    {"predicate": {"custom_model_data": 4},"model": "item/upgrade/diamond-chestplate-modular"},
+    {"predicate": {"custom_model_data": 5},"model": "item/upgrade/titanium-chestplate-modular"},
+    {"predicate": {"custom_model_data": 6},"model": "item/upgrade/mithril-chestplate-modular"},
+    {"predicate": {"custom_model_data": 7},"model": "item/upgrade/white-chestplate-modular"}
+
+  ]
+}

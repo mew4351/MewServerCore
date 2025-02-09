@@ -1,0 +1,220 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "item/bioreagent"
+	},
+	"elements": [
+		{
+			"name": "bioreagent_0",
+			"from": [6.5, 7.5, 1],
+			"to": [9.5, 8.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [10, 2, 7, 3], "texture": "#1"},
+				"east": {"uv": [9, 2, 10, 5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [7, 4, 10, 5], "texture": "#1"},
+				"west": {"uv": [7, 2, 8, 5], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [7, 2, 10, 5], "texture": "#1"},
+				"down": {"uv": [7, 5, 10, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_1",
+			"from": [5.5, 7.5, 2],
+			"to": [6.5, 8.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [7, 3, 6, 4], "texture": "#1"},
+				"east": {"uv": [6, 3, 7, 5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [6, 4, 7, 5], "texture": "#1"},
+				"west": {"uv": [6, 3, 7, 5], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [6, 3, 7, 5], "texture": "#1"},
+				"down": {"uv": [6, 5, 7, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_2",
+			"from": [9.5, 7.5, 2],
+			"to": [10.5, 8.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [11, 3, 10, 4], "texture": "#1"},
+				"east": {"uv": [10, 3, 11, 5], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [10, 4, 11, 5], "texture": "#1"},
+				"west": {"uv": [10, 3, 11, 5], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [10, 3, 11, 5], "texture": "#1"},
+				"down": {"uv": [10, 5, 11, 3], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_3",
+			"from": [6.5, 7.5, 4],
+			"to": [7.5, 8.5, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [8, 5, 7, 6], "texture": "#1"},
+				"east": {"uv": [7, 5, 8, 15], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [7, 14, 8, 15], "texture": "#1"},
+				"west": {"uv": [7, 5, 8, 15], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [7, 5, 8, 15], "texture": "#1"},
+				"down": {"uv": [7, 15, 8, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_4",
+			"from": [8.5, 7.5, 4],
+			"to": [9.5, 8.5, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [10, 5, 9, 6], "texture": "#1"},
+				"east": {"uv": [9, 5, 10, 15], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [9, 14, 10, 15], "texture": "#1"},
+				"west": {"uv": [9, 5, 10, 15], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [9, 5, 10, 15], "texture": "#1"},
+				"down": {"uv": [9, 15, 10, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_5",
+			"from": [7.5, 7.5, 5],
+			"to": [8.5, 8.5, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [9, 6, 8, 7], "texture": "#1"},
+				"east": {"uv": [8, 6, 9, 15], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [8, 14, 9, 15], "texture": "#1"},
+				"west": {"uv": [8, 6, 9, 15], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [8, 6, 9, 15], "texture": "#1"},
+				"down": {"uv": [8, 15, 9, 6], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_6",
+			"from": [5.5, 7.5, 6],
+			"to": [6.5, 8.5, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [7, 7, 6, 8], "texture": "#1"},
+				"east": {"uv": [6, 7, 7, 15], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [6, 14, 7, 15], "texture": "#1"},
+				"west": {"uv": [6, 7, 7, 15], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [6, 7, 7, 15], "texture": "#1"},
+				"down": {"uv": [6, 15, 7, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_7",
+			"from": [9.5, 7.5, 6],
+			"to": [10.5, 8.5, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [11, 7, 10, 8], "texture": "#1"},
+				"east": {"uv": [10, 7, 11, 15], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [10, 14, 11, 15], "texture": "#1"},
+				"west": {"uv": [10, 7, 11, 15], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [10, 7, 11, 15], "texture": "#1"},
+				"down": {"uv": [10, 15, 11, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_8",
+			"from": [4.5, 7.5, 7],
+			"to": [5.5, 8.5, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [6, 8, 5, 9], "texture": "#1"},
+				"east": {"uv": [5, 8, 6, 14], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [5, 13, 6, 14], "texture": "#1"},
+				"west": {"uv": [5, 8, 6, 14], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [5, 8, 6, 14], "texture": "#1"},
+				"down": {"uv": [5, 14, 6, 8], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_9",
+			"from": [10.5, 7.5, 7],
+			"to": [11.5, 8.5, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [12, 8, 11, 9], "texture": "#1"},
+				"east": {"uv": [11, 8, 12, 14], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [11, 13, 12, 14], "texture": "#1"},
+				"west": {"uv": [11, 8, 12, 14], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [11, 8, 12, 14], "texture": "#1"},
+				"down": {"uv": [11, 14, 12, 8], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_10",
+			"from": [3.5, 7.5, 8],
+			"to": [4.5, 8.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [5, 9, 4, 10], "texture": "#1"},
+				"east": {"uv": [4, 9, 5, 13], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [4, 12, 5, 13], "texture": "#1"},
+				"west": {"uv": [4, 9, 5, 13], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [4, 9, 5, 13], "texture": "#1"},
+				"down": {"uv": [4, 13, 5, 9], "texture": "#1"}
+			}
+		},
+		{
+			"name": "bioreagent_11",
+			"from": [11.5, 7.5, 8],
+			"to": [12.5, 8.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 7.5, -1]},
+			"faces": {
+				"north": {"uv": [13, 9, 12, 10], "texture": "#1"},
+				"east": {"uv": [12, 9, 13, 13], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [12, 12, 13, 13], "texture": "#1"},
+				"west": {"uv": [12, 9, 13, 13], "rotation": 270, "texture": "#1"},
+				"up": {"uv": [12, 9, 13, 13], "texture": "#1"},
+				"down": {"uv": [12, 13, 13, 9], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [91, -6, 9],
+			"translation": [0, 1, 1.5],
+			"scale": [0.38, 0.38, 0.38]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [91, -6, 9],
+			"translation": [0, 1, 1.5],
+			"scale": [0.38, 0.38, 0.38]
+		},
+		"firstperson_righthand": {
+			"rotation": [62, -6, 69],
+			"translation": [-1.25, 4.25, 3.25],
+			"scale": [0.53, 0.53, 0.53]
+		},
+		"firstperson_lefthand": {
+			"rotation": [62, -6, 69],
+			"translation": [-1.25, 4.25, 3.25],
+			"scale": [0.53, 0.53, 0.53]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.53, 0.53, 0.53]
+		},
+		"gui": {
+			"rotation": [90, 0, 0],
+			"translation": [0.25, -0.75, 0]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -0.5, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "bioreagent",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+		}
+	]
+}

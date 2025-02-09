@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/blaze_rod"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 5},"model": "item/flare"},
+    {"predicate": {"custom_model_data": 20},"model": "item/blastingwand"}
+	]
+}

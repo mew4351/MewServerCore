@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/green_dye"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 20},"model": "item/stableuranium"},
+  {"predicate": {"custom_model_data": 21},"model": "item/greenalgae"},
+  {"predicate": {"custom_model_data": 22},"model": "item/redalgae"},
+  {"predicate": {"custom_model_data": 23},"model": "item/brownalgae"},
+  {"predicate": {"custom_model_data": 24},"model": "item/ironalgae"},
+  {"predicate": {"custom_model_data": 25},"model": "item/wasteland/lettuce"}
+]
+}

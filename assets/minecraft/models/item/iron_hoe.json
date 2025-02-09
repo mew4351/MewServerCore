@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_hoe"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/invarhoe"},
+    {"predicate": {"custom_model_data": 5},"model": "item/commonscythe"},
+    {"predicate": {"custom_model_data": 10},"model": "item/scouthook"}
+	]
+}

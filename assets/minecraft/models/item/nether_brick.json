@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/nether_brick"
+    },
+    "overrides":
+    [
+      {"predicate": {"custom_model_data": 1},"model": "item/ammoa"},
+      {"predicate": {"custom_model_data": 2},"model": "item/ammob"},
+      {"predicate": {"custom_model_data": 3},"model": "item/ammoc"},
+      {"predicate": {"custom_model_data": 4},"model": "item/ammod"},
+      {"predicate": {"custom_model_data": 5},"model": "item/skill/banking"},
+      {"predicate": {"custom_model_data": 6},"model": "item/skill/pda"},
+      {"predicate": {"custom_model_data": 7},"model": "item/skill/heal"},
+      {"predicate": {"custom_model_data": 8},"model": "item/skill/damageboost"},
+      {"predicate": {"custom_model_data": 9},"model": "item/skill/defenseboost"},
+      {"predicate": {"custom_model_data": 10},"model": "item/skill/invisible"},
+      {"predicate": {"custom_model_data": 11},"model": "item/skill/nightvision"},
+      {"predicate": {"custom_model_data": 12},"model": "item/skill/artillery"},
+      {"predicate": {"custom_model_data": 13},"model": "item/skill/barrier"},
+      {"predicate": {"custom_model_data": 14},"model": "item/skill/partisan"},
+      {"predicate": {"custom_model_data": 15},"model": "item/skill/enharmony"},
+      {"predicate": {"custom_model_data": 16},"model": "item/shotgunshell"},
+      {"predicate": {"custom_model_data": 20},"model": "item/emptyphone"}
+    ]
+}

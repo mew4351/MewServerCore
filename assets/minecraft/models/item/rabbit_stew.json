@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/rabbit_stew"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 1},"model": "item/foods/appleporridge"},
+  {"predicate": {"custom_model_data": 2},"model": "item/foods/beetrootrisotto"},
+  {"predicate": {"custom_model_data": 3},"model": "item/foods/berrybowl"},
+  {"predicate": {"custom_model_data": 4},"model": "item/foods/boarstew"},
+  {"predicate": {"custom_model_data": 5},"model": "item/foods/granola"},
+  {"predicate": {"custom_model_data": 6},"model": "item/foods/lakssoup"},
+  {"predicate": {"custom_model_data": 7},"model": "item/foods/riceporridge"}
+]
+}

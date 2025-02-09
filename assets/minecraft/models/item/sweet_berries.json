@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/sweet_berries"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/croptopia/soybean"},
+    {"predicate": {"custom_model_data": 2},"model": "item/croptopia/indigograpes"},
+    {"predicate": {"custom_model_data": 3},"model": "item/croptopia/pepper"},
+    {"predicate": {"custom_model_data": 4},"model": "item/croptopia/frozendew"},
+    {"predicate": {"custom_model_data": 5},"model": "item/croptopia/hops"},
+    {"predicate": {"custom_model_data": 6},"model": "item/croptopia/hops"}
+	]
+}

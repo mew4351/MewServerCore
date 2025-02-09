@@ -1,0 +1,139 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/transister",
+		"particle": "item/transister"
+	},
+	"elements": [
+		{
+			"name": "transister_0",
+			"from": [4.5, 7.5, -0.08333],
+			"to": [11.5, 8.5, 8.91667],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 7.5, -1.08333]},
+			"faces": {
+				"north": {"uv": [11, 1, 4, 2], "texture": "#0"},
+				"east": {"uv": [10, 1, 11, 10], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 9, 11, 10], "texture": "#0"},
+				"west": {"uv": [4, 1, 5, 10], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 1, 11, 10], "texture": "#0"},
+				"down": {"uv": [4, 10, 11, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "transister_1",
+			"from": [3.5, 7.5, 0.91667],
+			"to": [4.5, 8.5, 8.91667],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 7.5, -1.08333]},
+			"faces": {
+				"north": {"uv": [4, 2, 3, 3], "texture": "#0"},
+				"east": {"uv": [3, 2, 4, 10], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3, 9, 4, 10], "texture": "#0"},
+				"west": {"uv": [3, 2, 4, 10], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3, 2, 4, 10], "texture": "#0"},
+				"down": {"uv": [3, 10, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "transister_2",
+			"from": [11.5, 7.5, 0.91667],
+			"to": [12.5, 8.5, 8.91667],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 7.5, -1.08333]},
+			"faces": {
+				"north": {"uv": [12, 2, 11, 3], "texture": "#0"},
+				"east": {"uv": [11, 2, 12, 10], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [11, 9, 12, 10], "texture": "#0"},
+				"west": {"uv": [11, 2, 12, 10], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [11, 2, 12, 10], "texture": "#0"},
+				"down": {"uv": [11, 10, 12, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "transister_3",
+			"from": [4.5, 7.5, 8.91667],
+			"to": [5.5, 8.5, 13.91667],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 7.5, -1.08333]},
+			"faces": {
+				"north": {"uv": [5, 10, 4, 11], "texture": "#0"},
+				"east": {"uv": [4, 10, 5, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 14, 5, 15], "texture": "#0"},
+				"west": {"uv": [4, 10, 5, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 10, 5, 15], "texture": "#0"},
+				"down": {"uv": [4, 15, 5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "transister_4",
+			"from": [7.5, 7.5, 8.91667],
+			"to": [8.5, 8.5, 12.91667],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 7.5, -1.08333]},
+			"faces": {
+				"north": {"uv": [8, 10, 7, 11], "texture": "#0"},
+				"east": {"uv": [7, 10, 8, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [7, 13, 8, 14], "texture": "#0"},
+				"west": {"uv": [7, 10, 8, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7, 10, 8, 14], "texture": "#0"},
+				"down": {"uv": [7, 14, 8, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "transister_5",
+			"from": [10.5, 7.5, 8.91667],
+			"to": [11.5, 8.5, 13.91667],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 7.5, -1.08333]},
+			"faces": {
+				"north": {"uv": [11, 10, 10, 11], "texture": "#0"},
+				"east": {"uv": [10, 10, 11, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 14, 11, 15], "texture": "#0"},
+				"west": {"uv": [10, 10, 11, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [10, 10, 11, 15], "texture": "#0"},
+				"down": {"uv": [10, 15, 11, 10], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.75, 1.5],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.75, 1.5],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, 2, 90],
+			"translation": [0, 4, 2.75],
+			"scale": [-0.47, 0.47, 0.47]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, 2, 90],
+			"translation": [0, 4, 2.75],
+			"scale": [-0.47, 0.47, 0.47]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.5, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [62, 24, -20],
+			"translation": [0.5, -0.75, 0],
+			"scale": [0.99, 0.99, 0.99]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0.25, -0.25, -0.5],
+			"scale": [0.62, 0.62, 0.62]
+		}
+	},
+	"groups": [
+		{
+			"name": "transister",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

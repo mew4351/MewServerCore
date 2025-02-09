@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/armor_stand"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 1},"model": "item/mob/smiler"},
+  {"predicate": {"custom_model_data": 2},"model": "item/mob/smallturret"},
+  {"predicate": {"custom_model_data": 3},"model": "item/mob/gunturret"},
+  {"predicate": {"custom_model_data": 4},"model": "item/mob/stasisturret"},
+  {"predicate": {"custom_model_data": 5},"model": "item/mob/nailspitter"},
+  {"predicate": {"custom_model_data": 6},"model": "item/mob/thumperrig"},
+  {"predicate": {"custom_model_data": 7},"model": "item/mob/smiler"},
+  {"predicate": {"custom_model_data": 8},"model": "item/mobs/cannon"},
+  {"predicate": {"custom_model_data": 9},"model": "item/mobs/fieldgun"},
+  {"predicate": {"custom_model_data": 10},"model": "item/mobs/artillery"},
+  {"predicate": {"custom_model_data": 20},"model": "item/functional/grandpiano"},
+  {"predicate": {"custom_model_data": 40},"model": "item/mob/fireknight_helmet"},
+  {"predicate": {"custom_model_data": 41},"model": "item/mob/forestknight_helmet"},
+  {"predicate": {"custom_model_data": 42},"model": "item/mob/snowknight_helmet"}
+]
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glow_ink_sac"
+  },
+  "overrides":
+  [
+  {"predicate": {"custom_model_data": 1},"model": "item/lowenergyinksac"},
+  {"predicate": {"custom_model_data": 40},"model": "item/ectoplasm"},
+  {"predicate": {"custom_model_data": 41},"model": "item/oc/nethersoul"},
+  {"predicate": {"custom_model_data": 42},"model": "item/nc/soul"},
+  {"predicate": {"custom_model_data": 43},"model": "item/nc/purple_soul"},
+  {"predicate": {"custom_model_data": 44},"model": "item/nc/golden_soul"},
+  {"predicate": {"custom_model_data": 45},"model": "item/nc/green_soul"},
+  {"predicate": {"custom_model_data": 46},"model": "item/nc/red_soul"}
+  ]
+}

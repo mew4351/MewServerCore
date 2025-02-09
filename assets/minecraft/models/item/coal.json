@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/coal"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/wasteland/lighterfuel"},
+    {"predicate": {"custom_model_data": 20},"model": "item/graphite"},
+    {"predicate": {"custom_model_data": 21},"model": "item/toughcarbon"},
+    {"predicate": {"custom_model_data": 22},"model": "item/coke"},
+    {"predicate": {"custom_model_data": 23},"model": "item/crudeoil"},
+    {"predicate": {"custom_model_data": 24},"model": "item/basicfuel"},
+    {"predicate": {"custom_model_data": 25},"model": "item/stdfuel"},
+    {"predicate": {"custom_model_data": 26},"model": "item/finefuel"},
+    {"predicate": {"custom_model_data": 27},"model": "item/kerosene"}
+	]
+}
