@@ -7,6 +7,8 @@
 	[
     {"predicate": {"custom_model_data": 1},"model": "item/invarhoe"},
     {"predicate": {"custom_model_data": 2},"model": "item/grandhoe"},
+    {"predicate": {"custom_model_data": 3},"model": "item/civilization/reconhook"},
+    {"predicate": {"custom_model_data": 4},"model": "item/civilization/assaulthook"},
     {"predicate": {"custom_model_data": 5},"model": "item/commonscythe"},
     {"predicate": {"custom_model_data": 10},"model": "item/scouthook"}
 	]

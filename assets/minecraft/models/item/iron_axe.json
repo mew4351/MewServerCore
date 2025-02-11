@@ -18,7 +18,7 @@
     {"predicate": {"custom_model_data": 11},"model": "item/ironhammer"},
     {"predicate": {"custom_model_data": 12},"model": "item/invarhammer"},
     {"predicate": {"custom_model_data": 13},"model": "item/wasteland/fireaxe"},
-    {"predicate": {"custom_model_data": 14},"model": "item/invarhammer"},
+    {"predicate": {"custom_model_data": 14},"model": "item/civilization/irontonfa"},
     {"predicate": {"custom_model_data": 15},"model": "item/invarhammer"},
     {"predicate": {"custom_model_data": 16},"model": "item/invarhammer"},
     {"predicate": {"custom_model_data": 17},"model": "item/invarhammer"},

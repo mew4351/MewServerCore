@@ -30,6 +30,8 @@
   {"predicate": {"custom_model_data": 23},"model": "item/titaniumglaive"},
   {"predicate": {"custom_model_data": 24},"model": "item/titaniumhalberd"},
   {"predicate": {"custom_model_data": 25},"model": "item/titaniumlance"},
+  {"predicate": {"custom_model_data": 26},"model": "item/civilization/jotunpole"},
+  {"predicate": {"custom_model_data": 27},"model": "item/civilization/diamondtonfa"},
   
   {"predicate": {"custom_model_data": 88},"model": "item/wooden_sword"},
   {"predicate": {"custom_model_data": 89},"model": "item/skin/rustysword"},

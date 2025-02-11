@@ -29,6 +29,11 @@
         {"predicate": {"pulling": 1},"model": "item/bow_pulling_0"},
         {"predicate": {"pulling": 1,"pull": 0.65},"model": "item/bow_pulling_1"},
         {"predicate": {"pulling": 1,"pull": 0.9},"model": "item/bow_pulling_2"},
+
+		{"predicate": {"custom_model_data": 1},"model": "item/civilization/enderbow1"},
+		{"predicate": {"custom_model_data": 1,"pulling": 1},"model": "item/civilization/enderbow2"},
+		{"predicate": {"custom_model_data": 1,"pulling": 1,"pull": 0.5},"model": "item/civilization/enderbow2"},
+		{"predicate": {"custom_model_data": 1,"pulling": 1,"pull": 0.9},"model": "item/civilization/enderbow3"},
 		
 		{"predicate": {"custom_model_data": 20},"model": "item/recurvebow"},
 		{"predicate": {"custom_model_data": 20,"pulling": 1},"model": "item/recurvebow_pulling_0"},
