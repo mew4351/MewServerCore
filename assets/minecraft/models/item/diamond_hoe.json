@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/mithrilshovel"},
+    {"predicate": {"custom_model_data": 2},"model": "item/civilization/grandhoe"}
+	]
+}

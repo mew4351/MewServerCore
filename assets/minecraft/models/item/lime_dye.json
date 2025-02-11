@@ -6,7 +6,9 @@
   "overrides":
 [
   {"predicate": {"custom_model_data": 1},"model": "item/croptopia/junglespore"},
-  {"predicate": {"custom_model_data": 20},"model": "item/unstableuranium"},
+  {"predicate": {"custom_model_data": 2},"model": "item/vialofnatureblend"},
+  {"predicate": {"custom_model_data": 3},"model": "item/natureessence"},
+  {"predicate": {"custom_model_data": 20},"model": "item/unstableuranium"}, 
   {"predicate": {"custom_model_data": 30},"model": "item/limepill"},
 
   {"predicate": {"custom_model_data": 100},"model": "item/u233cell"},
