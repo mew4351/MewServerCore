@@ -7,7 +7,7 @@
     },
     "explodetype1": {
 	    "sounds": [
-		    {
+		    { 
 			    "name": "explodetype1",
 			    "stream": true
 		    },
