@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/rabbit_hide"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/instrument/violin"},
+    {"predicate": {"custom_model_data": 2},"model": "item/instrument/trumpet"},
+    {"predicate": {"custom_model_data": 3},"model": "item/instrument/cymbal"},
+    {"predicate": {"custom_model_data": 4},"model": "item/instrument/marchingsnare"},
+    {"predicate": {"custom_model_data": 20},"model": "item/noonquiver"}
+	]
+}

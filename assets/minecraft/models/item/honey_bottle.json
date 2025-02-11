@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honey_bottle"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 20},"model": "item/rocketfuel"},
+  {"predicate": {"custom_model_data": 21},"model": "item/nukerocketfuel"},
+  {"predicate": {"custom_model_data": 22},"model": "item/bionutrient"},
+  {"predicate": {"custom_model_data": 23},"model": "item/bioreagent"}
+]
+}

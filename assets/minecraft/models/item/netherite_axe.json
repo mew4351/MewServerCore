@@ -1,0 +1,17 @@
+ {
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_axe"
+  },
+  "overrides":
+  [
+    {"predicate": {"custom_model_data": 1},"model": "item/netheritehammer"},
+    {"predicate": {"custom_model_data": 2},"model": "item/luniumhammer"},
+    {"predicate": {"custom_model_data": 3},"model": "item/radianiumhammer"},
+    {"predicate": {"custom_model_data": 4},"model": "item/tithirlhammer"},
+    {"predicate": {"custom_model_data": 5},"model": "item/radianiumaxe"},
+    {"predicate": {"custom_model_data": 6},"model": "item/tithirlaxe"},
+    {"predicate": {"custom_model_data": 7},"model": "item/netheritemace"},
+    {"predicate": {"custom_model_data": 8},"model": "item/tithrilmace"}
+  ]
+}

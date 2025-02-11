@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 1},"model": "item/endersteelsword"},
+  {"predicate": {"custom_model_data": 2},"model": "item/graphenesword"},
+  {"predicate": {"custom_model_data": 3},"model": "item/titaniumsword"},
+  {"predicate": {"custom_model_data": 4},"model": "item/meteoriumsword"},
+  {"predicate": {"custom_model_data": 5},"model": "item/whitesword"},
+  {"predicate": {"custom_model_data": 6},"model": "item/everbluesword"},
+  {"predicate": {"custom_model_data": 7},"model": "item/diamond_claymore"},
+  {"predicate": {"custom_model_data": 8},"model": "item/diamond_katana"},
+  {"predicate": {"custom_model_data": 9},"model": "item/diamondlongsword"},
+  {"predicate": {"custom_model_data": 10},"model": "item/diamondcutlas"},
+  {"predicate": {"custom_model_data": 11},"model": "item/diamondcraver"},
+  {"predicate": {"custom_model_data": 12},"model": "item/diamondspear"},
+  {"predicate": {"custom_model_data": 13},"model": "item/diamondlance"},
+  {"predicate": {"custom_model_data": 14},"model": "item/diamondglaive"},
+  {"predicate": {"custom_model_data": 15},"model": "item/diamondhalberd"},
+  {"predicate": {"custom_model_data": 16},"model": "item/meteoriumclaymore"},
+  {"predicate": {"custom_model_data": 17},"model": "item/meteoriumlongsword"},
+  {"predicate": {"custom_model_data": 18},"model": "item/titaniumlongsword"},
+  {"predicate": {"custom_model_data": 19},"model": "item/titanium_claymore"},
+  {"predicate": {"custom_model_data": 20},"model": "item/titaniumcutlas"},
+  {"predicate": {"custom_model_data": 21},"model": "item/titaniumcraver"},
+  {"predicate": {"custom_model_data": 22},"model": "item/titaniumspear"},
+  {"predicate": {"custom_model_data": 23},"model": "item/titaniumglaive"},
+  {"predicate": {"custom_model_data": 24},"model": "item/titaniumhalberd"},
+  {"predicate": {"custom_model_data": 25},"model": "item/titaniumlance"},
+  
+  {"predicate": {"custom_model_data": 88},"model": "item/wooden_sword"},
+  {"predicate": {"custom_model_data": 89},"model": "item/skin/rustysword"},
+  {"predicate": {"custom_model_data": 90},"model": "item/skin/rustysword"},
+  {"predicate": {"custom_model_data": 91},"model": "item/skin/unknowsword"},
+  {"predicate": {"custom_model_data": 92},"model": "item/skin/fishsword"},
+  {"predicate": {"custom_model_data": 93},"model": "item/skin/chadchart"},
+  {"predicate": {"custom_model_data": 94},"model": "item/skin/footlong"},
+  {"predicate": {"custom_model_data": 95},"model": "item/skin/trueice_lichbane"}
+]
+}

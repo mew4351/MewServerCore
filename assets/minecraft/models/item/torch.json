@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/torch"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/ironwartorch"},
+    {"predicate": {"custom_model_data": 2},"model": "item/bronzewartorch"},
+    {"predicate": {"custom_model_data": 3},"model": "item/boronwartorch"},
+    {"predicate": {"custom_model_data": 4},"model": "item/titaniumwartorch"},
+    {"predicate": {"custom_model_data": 5},"model": "item/tithrilwartorch"},
+    {"predicate": {"custom_model_data": 6},"model": "item/diamondwartorch"},
+    {"predicate": {"custom_model_data": 7},"model": "item/radianiumwartorch"},
+    {"predicate": {"custom_model_data": 8},"model": "item/civilization/tarkantorch"},
+    {"predicate": {"custom_model_data": 20},"model": "item/torchofnight"}
+	]
+}

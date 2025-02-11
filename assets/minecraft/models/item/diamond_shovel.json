@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_shovel"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/mithrilshovel"},
+
+    {"predicate": {"custom_model_data": 90},"model": "item/skin/unknowshovel"}
+	]
+}

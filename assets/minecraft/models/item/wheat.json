@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/wheat"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 1},"model": "item/croptopia/barley"},
+  {"predicate": {"custom_model_data": 2},"model": "item/croptopia/oat"},
+  {"predicate": {"custom_model_data": 5},"model": "item/equipment_mod/echohay"}
+]
+}

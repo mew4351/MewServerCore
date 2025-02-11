@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/redstone"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/equipment_mod/laserpointer"},
+    {"predicate": {"custom_model_data": 2},"model": "item/battery"},
+    {"predicate": {"custom_model_data": 3},"model": "item/redstonepower"},
+    {"predicate": {"custom_model_data": 4},"model": "item/redstonepower2"},
+    {"predicate": {"custom_model_data": 5},"model": "item/redstonepower3"},
+    {"predicate": {"custom_model_data": 6},"model": "item/violite"},
+    {"predicate": {"custom_model_data": 7},"model": "item/motor"},
+    {"predicate": {"custom_model_data": 8},"model": "item/equipment_mod/swordbattery"},
+    {"predicate": {"custom_model_data": 20},"model": "item/kindlegem"},
+    {"predicate": {"custom_model_data": 21},"model": "item/bluegem"},
+    {"predicate": {"custom_model_data": 30},"model": "item/capacitor"},
+    {"predicate": {"custom_model_data": 31},"model": "item/redstone_ic"},
+    {"predicate": {"custom_model_data": 32},"model": "item/redstone_processor"}
+    
+	]
+}

@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/raw_iron"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 1},"model": "item/rawboron"},
+  {"predicate": {"custom_model_data": 2},"model": "item/rawsilver"},
+  {"predicate": {"custom_model_data": 3},"model": "item/lunite"},
+  {"predicate": {"custom_model_data": 4},"model": "item/vanilium"},
+  {"predicate": {"custom_model_data": 5},"model": "item/leadore"},
+  {"predicate": {"custom_model_data": 17},"model": "item/vaniliumoxide"},
+  {"predicate": {"custom_model_data": 18},"model": "item/ferrolunite"},
+  {"predicate": {"custom_model_data": 19},"model": "item/ironlunium"},
+  {"predicate": {"custom_model_data": 20},"model": "item/commonearthchunk"},
+  {"predicate": {"custom_model_data": 21},"model": "item/rareearthchunk"}
+]
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_pickaxe"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/depthbomb_small"},
+    {"predicate": {"custom_model_data": 2},"model": "item/wasteland/stonehatchet"},
+    {"predicate": {"custom_model_data": 20},"model": "item/carboniumpickaxe"}
+	]
+}

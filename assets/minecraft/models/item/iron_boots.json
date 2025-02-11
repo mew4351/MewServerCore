@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_boots"
+  },
+  "overrides":
+  [
+  {"predicate": {"custom_model_data": 1},"model": "item/invarboots"},
+  {"predicate": {"custom_model_data": 2},"model": "item/boronboots"},
+  {"predicate": {"custom_model_data": 3},"model": "item/meteoriumboots"},
+  {"predicate": {"custom_model_data": 4},"model": "item/ferroboronboots"},
+  {"predicate": {"custom_model_data": 5},"model": "item/bronzeboots"},
+  {"predicate": {"custom_model_data": 6},"model": "item/constantanboots"},
+  {"predicate": {"custom_model_data": 7},"model": "item/mithrilboots"}
+  ]
+}

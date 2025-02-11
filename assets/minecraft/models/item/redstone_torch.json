@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/redstone_torch"
+  },
+  "overrides":
+[
+  {"predicate": {"custom_model_data": 1},"model": "item/antenna"},
+  {"predicate": {"custom_model_data": 2},"model": "item/command/selecttool"},
+  {"predicate": {"custom_model_data": 3},"model": "item/command/movetool"},
+  {"predicate": {"custom_model_data": 4},"model": "item/command/undotool"},
+  {"predicate": {"custom_model_data": 5},"model": "item/command/originfindtool"},
+  {"predicate": {"custom_model_data": 6},"model": "item/radio"},
+  {"predicate": {"custom_model_data": 20},"model": "item/flare"},
+  {"predicate": {"custom_model_data": 21},"model": "item/bombsweeper"}
+]
+}

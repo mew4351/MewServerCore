@@ -1,0 +1,27 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_sword"
+    },
+    "overrides":
+  [
+    {"predicate": {"custom_model_data": 1},"model": "item/wasteland/baseballbat"},
+    {"predicate": {"custom_model_data": 2},"model": "item/wasteland/spikedclub"},
+    {"predicate": {"custom_model_data": 3},"model": "item/wasteland/bladedclub"},
+    {"predicate": {"custom_model_data": 4},"model": "item/wasteland/knifeclub"},
+    {"predicate": {"custom_model_data": 5},"model": "item/rollingpin"},
+    {"predicate": {"custom_model_data": 6},"model": "item/wasteland/woodenclub"},
+    {"predicate": {"custom_model_data": 7},"model": "item/wasteland/woodenclubred"},
+    {"predicate": {"custom_model_data": 8},"model": "item/wasteland/squareruler"},
+    {"predicate": {"custom_model_data": 9},"model": "item/wasteland/paddle"},
+    {"predicate": {"custom_model_data": 10},"model": "item/wasteland/boom"},
+    {"predicate": {"custom_model_data": 11},"model": "item/wasteland/mop"},
+    {"predicate": {"custom_model_data": 12},"model": "item/wasteland/baseballbatmod"},
+    {"predicate": {"custom_model_data": 13},"model": "item/wasteland/spikedclubred"},
+    {"predicate": {"custom_model_data": 14},"model": "item/wasteland/bladedclubred"},
+    {"predicate": {"custom_model_data": 15},"model": "item/wasteland/knifeclubred"},
+    {"predicate": {"custom_model_data": 16},"model": "item/wasteland/spikedrollingpin"},
+    {"predicate": {"custom_model_data": 17},"model": "item/wasteland/spikedrollingpingreen"},
+    {"predicate": {"custom_model_data": 18},"model": "item/wasteland/syringe"}
+  ]
+}
