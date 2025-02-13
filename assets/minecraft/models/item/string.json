@@ -15,6 +15,7 @@
     {"predicate": {"custom_model_data": 8},"model": "item/wasteland/wire"},
     {"predicate": {"custom_model_data": 9},"model": "item/wasteland/fuse"},
     {"predicate": {"custom_model_data": 10},"model": "item/equipment_mod/echospider"},
+    {"predicate": {"custom_model_data": 11},"model": "item/equipment_mod/royalsilkstring"},
     {"predicate": {"custom_model_data": 40},"model": "item/oc/windthread"}
   ]
 }
