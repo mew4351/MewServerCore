@@ -2348,6 +2348,12 @@
             }
         ]
     },
+	"camerashutter": {
+        "replace": false,
+        "sounds": [
+            "camerashutter"
+        ]
+    },
 	"shower": {
         "replace": false,
         "sounds": [
