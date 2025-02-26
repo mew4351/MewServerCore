@@ -17,7 +17,7 @@
   {"predicate": {"custom_model_data": 10},"model": "item/titaniumchestplate"},
   {"predicate": {"custom_model_data": 11},"model": "item/invarjacket"},
   {"predicate": {"custom_model_data": 12},"model": "item/invartunic"},
-  {"predicate": {"custom_model_data": 12},"model": "item/bronzetunic"},
-  {"predicate": {"custom_model_data": 12},"model": "item/bronzetunic"}
+  {"predicate": {"custom_model_data": 13},"model": "item/bronzetunic"},
+  {"predicate": {"custom_model_data": 14},"model": "item/equipment_mod/bastionvest"}
   ]
 }
