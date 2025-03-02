@@ -53,6 +53,10 @@
     {"predicate": {"custom_model_data": 46},"model": "item/wasteland/fabricpiece"},
     {"predicate": {"custom_model_data": 47},"model": "item/wasteland/towel"},
     {"predicate": {"custom_model_data": 48},"model": "item/prime/logintoken"},
-    {"predicate": {"custom_model_data": 49},"model": "item/prime/creepericon"}
+    {"predicate": {"custom_model_data": 49},"model": "item/prime/creepericon"},
+
+    {"predicate": {"custom_model_data": 100},"model": "item/gui/button/research_button"},
+    {"predicate": {"custom_model_data": 101},"model": "item/gui/button/reward_button"},
+    {"predicate": {"custom_model_data": 102},"model": "item/gui/button/guard_button"}
 	]
 }

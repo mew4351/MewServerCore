@@ -7,6 +7,12 @@
 	[
     {"predicate": {"custom_model_data": 20},"model": "item/glass_lens"},
     {"predicate": {"custom_model_data": 21},"model": "item/dense_lens"},
-    {"predicate": {"custom_model_data": 22},"model": "item/diamond_lens"}
+    {"predicate": {"custom_model_data": 22},"model": "item/diamond_lens"},
+    {"predicate": {"custom_model_data": 100},"model": "item/skill/heavyattack"},
+    {"predicate": {"custom_model_data": 101},"model": "item/skill/impactrecover"},
+    {"predicate": {"custom_model_data": 102},"model": "item/skill/endurance"},
+    {"predicate": {"custom_model_data": 103},"model": "item/skill/counterstrike"},
+    {"predicate": {"custom_model_data": 104},"model": "item/skill/piercethurst"},
+    {"predicate": {"custom_model_data": 105},"model": "item/skill/sturddefense"}
 	]
 }
