@@ -8,6 +8,16 @@
   {"predicate": {"custom_model_data": 1},"model": "item/radianitechloride"},
   {"predicate": {"custom_model_data": 2},"model": "item/stableradianite"},
   {"predicate": {"custom_model_data": 3},"model": "item/naturalgas"},
-  {"predicate": {"custom_model_data": 30},"model": "item/orangepill"}
+  {"predicate": {"custom_model_data": 30},"model": "item/orangepill"},
+  {"predicate": {"custom_model_data": 100},"model": "item/skill/powershot"},
+  {"predicate": {"custom_model_data": 101},"model": "item/skill/powerbolt"},
+  {"predicate": {"custom_model_data": 102},"model": "item/skill/huntercure"},
+  {"predicate": {"custom_model_data": 103},"model": "item/skill/evasiontraining"},
+  {"predicate": {"custom_model_data": 104},"model": "item/skill/maimshot"},
+  {"predicate": {"custom_model_data": 105},"model": "item/skill/pierceshot"},
+  {"predicate": {"custom_model_data": 106},"model": "item/skill/natureaid"},
+  {"predicate": {"custom_model_data": 107},"model": "item/skill/snaretrap"},
+  {"predicate": {"custom_model_data": 108},"model": "item/skill/flarearrow"},
+  {"predicate": {"custom_model_data": 109},"model": "item/skill/arrowslam"}
 ]
 }

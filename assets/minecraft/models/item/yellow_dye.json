@@ -7,6 +7,8 @@
 	[
     {"predicate": {"custom_model_data": 20},"model": "item/radianiumplate"},
     {"predicate": {"custom_model_data": 30},"model": "item/yellowpill"},
-    {"predicate": {"custom_model_data": 40},"model": "item/goldamalgam"}
+    {"predicate": {"custom_model_data": 40},"model": "item/goldamalgam"},
+    {"predicate": {"custom_model_data": 100},"model": "item/skill/mendtorch"},
+    {"predicate": {"custom_model_data": 101},"model": "item/skill/lessersmite"}
 	]
 }
