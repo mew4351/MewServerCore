@@ -31,6 +31,22 @@
     {"predicate": {"custom_model_data": 35},"model": "item/lvm/stormscepter"},
     {"predicate": {"custom_model_data": 36},"model": "item/lvm/pyroscepter"},
     {"predicate": {"custom_model_data": 37},"model": "item/lvm/cryoscepter"},
-    {"predicate": {"custom_model_data": 38},"model": "item/lvm/vitalscepter"}
+    {"predicate": {"custom_model_data": 38},"model": "item/lvm/vitalscepter"},
+
+    {"predicate": {"custom_model_data": 50},"model": "item/prime/goldenpyrostaff"},
+    {"predicate": {"custom_model_data": 51},"model": "item/prime/goldenhydrostaff"},
+    {"predicate": {"custom_model_data": 52},"model": "item/prime/goldenluminostaff"},
+    {"predicate": {"custom_model_data": 53},"model": "item/prime/steelpyrostaff"},
+    {"predicate": {"custom_model_data": 54},"model": "item/prime/steelhydrostaff"},
+    {"predicate": {"custom_model_data": 55},"model": "item/prime/steelluminostaff"},
+    {"predicate": {"custom_model_data": 56},"model": "item/prime/diamondpyrostaff"},
+    {"predicate": {"custom_model_data": 57},"model": "item/prime/diamondhydrostaff"},
+    {"predicate": {"custom_model_data": 58},"model": "item/prime/diamondluminostaff"},
+    {"predicate": {"custom_model_data": 59},"model": "item/prime/netheritepyrostaff"},
+    {"predicate": {"custom_model_data": 60},"model": "item/prime/netheritehydrostaff"},
+    {"predicate": {"custom_model_data": 61},"model": "item/prime/netheriteluminostaff"},
+    {"predicate": {"custom_model_data": 62},"model": "item/prime/tithrilpyrostaff"},
+    {"predicate": {"custom_model_data": 63},"model": "item/prime/tithrilhydrostaff"},
+    {"predicate": {"custom_model_data": 64},"model": "item/prime/tithrilluminostaff"}
     ]
 }
