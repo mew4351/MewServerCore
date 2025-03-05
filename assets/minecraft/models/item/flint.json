@@ -6,6 +6,7 @@
   "overrides":
   [
   {"predicate": {"custom_model_data": 1},"model": "item/equipment_mod/steelidler"},
+  {"predicate": {"custom_model_data": 2},"model": "item/prime/haunterbomb"},
   {"predicate": {"custom_model_data": 20},"model": "item/flintsharpener"},
   {"predicate": {"custom_model_data": 21},"model": "item/steelsharpener"},
   {"predicate": {"custom_model_data": 22},"model": "item/mithrilsharpener"}
