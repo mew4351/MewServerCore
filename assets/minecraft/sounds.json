@@ -1737,6 +1737,36 @@
             "steamburst"
         ]
     },
+	"bannercall": {
+        "replace": false,
+        "sounds": [
+            "mainskill/bannercall"
+        ]
+    },
+	"bannercall_fiery": {
+        "replace": false,
+        "sounds": [
+            "mainskill/bannercall_fiery"
+        ]
+    },
+	"bannercall_luminus": {
+        "replace": false,
+        "sounds": [
+            "mainskill/bannercall_luminus"
+        ]
+    },
+	"psychoburst": {
+        "replace": false,
+        "sounds": [
+            "mainskill/psychoburst"
+        ]
+    },
+	"magicattackdistance": {
+        "replace": false,
+        "sounds": [
+            "mainskill/magicattackdistance"
+        ]
+    },
 	"chronoblade_cast": {
         "replace": false,
         "sounds": [
