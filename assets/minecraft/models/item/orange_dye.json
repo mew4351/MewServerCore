@@ -18,6 +18,8 @@
   {"predicate": {"custom_model_data": 106},"model": "item/skill/natureaid"},
   {"predicate": {"custom_model_data": 107},"model": "item/skill/snaretrap"},
   {"predicate": {"custom_model_data": 108},"model": "item/skill/flarearrow"},
-  {"predicate": {"custom_model_data": 109},"model": "item/skill/arrowslam"}
+  {"predicate": {"custom_model_data": 109},"model": "item/skill/arrowslam"},
+  {"predicate": {"custom_model_data": 110},"model": "item/skill/naturedetox"},
+  {"predicate": {"custom_model_data": 111},"model": "item/skill/swiftflip"}
 ]
 }
