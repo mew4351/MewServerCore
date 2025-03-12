@@ -13,6 +13,9 @@
     {"predicate": {"custom_model_data": 102},"model": "item/skill/endurance"},
     {"predicate": {"custom_model_data": 103},"model": "item/skill/counterstrike"},
     {"predicate": {"custom_model_data": 104},"model": "item/skill/piercethurst"},
-    {"predicate": {"custom_model_data": 105},"model": "item/skill/sturddefense"}
+    {"predicate": {"custom_model_data": 105},"model": "item/skill/sturddefense"},
+    {"predicate": {"custom_model_data": 106},"model": "item/skill/bannercall"},
+    {"predicate": {"custom_model_data": 107},"model": "item/skill/fierybannercall"},
+    {"predicate": {"custom_model_data": 107},"model": "item/skill/luminusbannercall"}
 	]
 }
