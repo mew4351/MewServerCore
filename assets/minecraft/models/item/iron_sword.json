@@ -69,6 +69,7 @@
     {"predicate": {"custom_model_data": 62},"model": "item/ironlongsword"},
     {"predicate": {"custom_model_data": 63},"model": "item/ironcutlas"},
     {"predicate": {"custom_model_data": 64},"model": "item/ironcraver"},
+    {"predicate": {"custom_model_data": 65},"model": "item/civilization/irontonfa"},
     
     {"predicate": {"custom_model_data": 90},"model": "item/skin/rustysword"},
     {"predicate": {"custom_model_data": 91},"model": "item/skin/unknowsword"},
