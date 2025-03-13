@@ -18,6 +18,7 @@
     {"predicate": {"custom_model_data": 11},"model": "item/equipment_mod/psychiccontraptionkit"},
     {"predicate": {"custom_model_data": 12},"model": "item/equipment_mod/bloodfillerkit"},
     {"predicate": {"custom_model_data": 13},"model": "item/equipment_mod/alfconductancekit"},
+    {"predicate": {"custom_model_data": 14},"model": "item/equipment_mod/fastquiverkit"},
     {"predicate": {"custom_model_data": 20},"model": "item/moongem"},
     {"predicate": {"custom_model_data": 40},"model": "item/tincoin"},
     {"predicate": {"custom_model_data": 41},"model": "item/coppercoin"},
