@@ -33,6 +33,7 @@
     {"predicate": {"custom_model_data": 37},"model": "item/lvm/cryoscepter"},
     {"predicate": {"custom_model_data": 38},"model": "item/lvm/vitalscepter"},
 
+
     {"predicate": {"custom_model_data": 50},"model": "item/prime/goldenpyrostaff"},
     {"predicate": {"custom_model_data": 51},"model": "item/prime/goldenhydrostaff"},
     {"predicate": {"custom_model_data": 52},"model": "item/prime/goldenluminostaff"},
@@ -47,6 +48,8 @@
     {"predicate": {"custom_model_data": 61},"model": "item/prime/netheriteluminostaff"},
     {"predicate": {"custom_model_data": 62},"model": "item/prime/tithrilpyrostaff"},
     {"predicate": {"custom_model_data": 63},"model": "item/prime/tithrilhydrostaff"},
-    {"predicate": {"custom_model_data": 64},"model": "item/prime/tithrilluminostaff"}
+    {"predicate": {"custom_model_data": 64},"model": "item/prime/tithrilluminostaff"},
+    
+    {"predicate": {"custom_model_data": 100},"model": "item/equipment_mod/nidavelabattlehilt"}
     ]
 }
