@@ -40,6 +40,7 @@
   {"predicate": {"custom_model_data": 33},"model": "item/radianiumsword"},
   {"predicate": {"custom_model_data": 34},"model": "item/radianiumcutlas"},
   {"predicate": {"custom_model_data": 35},"model": "item/radianiumcraver"},
-  {"predicate": {"custom_model_data": 36},"model": "item/radianiumcraver_alt"}
+  {"predicate": {"custom_model_data": 36},"model": "item/radianiumcraver_alt"},
+  {"predicate": {"custom_model_data": 37},"model": "item/civilization/netheritefirelance"}
 ]
 }
