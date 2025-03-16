@@ -26,6 +26,18 @@
 
 
 
+	"ambient.dockambient": {
+        "replace": false,
+        "sounds": [
+            "ambient/dockambient"
+        ]
+    },
+	"ambient.arcanetowerambient": {
+        "replace": false,
+        "sounds": [
+            "ambient/arcanetowerambient"
+        ]
+    },
     "entity.generic.explode": {
 	    "sounds": [
 		    {
@@ -2057,6 +2069,38 @@
             "artilleryincomingshell"
         ]
     },
+
+    "distant.thunderbolt": {
+	    "sounds": [
+		    {
+			    "name": "distant/thunderboltfar"
+		    }
+	    ]
+    },
+    "distant.musket": {
+	    "sounds": [
+		    {
+			    "name": "distant/musketfar1"
+		    },
+		    {
+			    "name": "distant/musketfar2"
+		    },
+		    {
+			    "name": "distant/musketfar3"
+		    }
+	    ]
+    },
+    "distant.bowskill": {
+	    "sounds": [
+		    {
+			    "name": "distant/bowfar1"
+		    },
+		    {
+			    "name": "distant/bowfar2"
+		    }
+	    ]
+    },
+
 	"build_cast": {
         "replace": false,
         "sounds": [
