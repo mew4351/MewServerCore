@@ -2209,6 +2209,19 @@
 		    }
 	    ]
     },
+    "distant.cannon": {
+	    "sounds": [
+		    {
+			    "name": "distant/cannonfar1"
+		    },
+		    {
+			    "name": "distant/cannonfar2"
+		    },
+		    {
+			    "name": "distant/cannonfar3"
+		    }
+	    ]
+    },
 
 	"build_cast": {
         "replace": false,
