@@ -2101,7 +2101,7 @@
     "distant.firebolt": {
 	    "sounds": [
 		    {
-			    "name": "distant/fireboltfar1"
+			    "name": "distant/fireboltfar"
 		    }
 	    ]
     },
