@@ -2070,10 +2070,106 @@
         ]
     },
 
+    "distant.bassexplode": {
+	    "sounds": [
+		    {
+			    "name": "distant/bassexplodefar1"
+		    }
+	    ]
+    },
+    "distant.blunt": {
+	    "sounds": [
+		    {
+			    "name": "distant/blunthitfar"
+		    }
+	    ]
+    },
+    "distant.slash": {
+	    "sounds": [
+		    {
+			    "name": "distant/slashfar"
+		    }
+	    ]
+    },
+    "distant.chainbolt": {
+	    "sounds": [
+		    {
+			    "name": "distant/chainboltfar"
+		    }
+	    ]
+    },
+    "distant.firebolt": {
+	    "sounds": [
+		    {
+			    "name": "distant/fireboltfar1"
+		    }
+	    ]
+    },
+    "distant.frostbolt": {
+	    "sounds": [
+		    {
+			    "name": "distant/frostboltfar"
+		    }
+	    ]
+    },
     "distant.thunderbolt": {
 	    "sounds": [
 		    {
 			    "name": "distant/thunderboltfar"
+		    }
+	    ]
+    },
+    "distant.psychoburst": {
+	    "sounds": [
+		    {
+			    "name": "distant/psychoburstfar"
+		    }
+	    ]
+    },
+    "distant.magicburst": {
+	    "sounds": [
+		    {
+			    "name": "distant/magicburstfar"
+		    }
+	    ]
+    },
+    "distant.smallarm": {
+	    "sounds": [
+		    {
+			    "name": "distant/smallarmfar1"
+		    },
+		    {
+			    "name": "distant/smallarmfar2"
+		    },
+		    {
+			    "name": "distant/smallarmfar3"
+		    }
+	    ]
+    },
+    "distant.revolver": {
+	    "sounds": [
+		    {
+			    "name": "distant/revolverfar1"
+		    },
+		    {
+			    "name": "distant/revolverfar2"
+		    }
+	    ]
+    },
+    "distant.smg": {
+	    "sounds": [
+		    {
+			    "name": "distant/smgfar1"
+		    },
+		    {
+			    "name": "distant/smgfar2"
+		    }
+	    ]
+    },
+    "distant.flintlock": {
+	    "sounds": [
+		    {
+			    "name": "distant/flintlockfar"
 		    }
 	    ]
     },
@@ -2087,6 +2183,19 @@
 		    },
 		    {
 			    "name": "distant/musketfar3"
+		    }
+	    ]
+    },
+    "distant.rifle": {
+	    "sounds": [
+		    {
+			    "name": "distant/riflefar1"
+		    },
+		    {
+			    "name": "distant/riflefar2"
+		    },
+		    {
+			    "name": "distant/riflefar3"
 		    }
 	    ]
     },
