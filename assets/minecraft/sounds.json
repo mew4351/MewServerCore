@@ -2126,10 +2126,85 @@
 		    }
 	    ]
     },
+    "distant.magichit": {
+	    "sounds": [
+		    {
+			    "name": "distant/magichitfar1"
+		    },
+		    {
+			    "name": "distant/magichitfar2"
+		    }
+	    ]
+    },
+    "distant.buzzer": {
+	    "sounds": [
+		    {
+			    "name": "distant/buzzerfar"
+		    }
+	    ]
+    },
+    "distant.neuroflash": {
+	    "sounds": [
+		    {
+			    "name": "distant/neuroflashfar"
+		    }
+	    ]
+    },
+    "distant.arcanesweep": {
+	    "sounds": [
+		    {
+			    "name": "distant/arcanesweepfar"
+		    }
+	    ]
+    },
     "distant.magicburst": {
 	    "sounds": [
 		    {
 			    "name": "distant/magicburstfar"
+		    }
+	    ]
+    },
+    "distant.pistol": {
+	    "sounds": [
+		    {
+			    "name": "distant/pistolfar"
+		    }
+	    ]
+    },
+    "distant.silencegun": {
+	    "sounds": [
+		    {
+			    "name": "distant/silencegunfar1"
+		    }
+	    ]
+    },
+    "distant.shotgun": {
+	    "sounds": [
+		    {
+			    "name": "distant/shotgunfar"
+		    }
+	    ]
+    },
+    "distant.grenadeshot": {
+	    "sounds": [
+		    {
+			    "name": "distant/grenadeshot1"
+		    },
+		    {
+			    "name": "distant/grenadeshot2"
+		    }
+	    ]
+    },
+    "distant.rocketshot": {
+	    "sounds": [
+		    {
+			    "name": "distant/rocketfar1"
+		    },
+		    {
+			    "name": "distant/rocketfar2"
+		    },
+		    {
+			    "name": "distant/rocketfar3"
 		    }
 	    ]
     },
@@ -2199,6 +2274,36 @@
 		    }
 	    ]
     },
+    "distant.heavysniper": {
+	    "sounds": [
+		    {
+			    "name": "distant/heavysniperfar1"
+		    },
+		    {
+			    "name": "distant/heavysniperfar2"
+		    }
+	    ]
+    },
+    "distant.largegun": {
+	    "sounds": [
+		    {
+			    "name": "distant/largegunfar1"
+		    },
+		    {
+			    "name": "distant/largegunfar2"
+		    }
+	    ]
+    },
+    "distant.antimatgun": {
+	    "sounds": [
+		    {
+			    "name": "distant/antimatfar1"
+		    },
+		    {
+			    "name": "distant/antimatfar2"
+		    }
+	    ]
+    },
     "distant.bowskill": {
 	    "sounds": [
 		    {
@@ -2221,6 +2326,28 @@
 			    "name": "distant/cannonfar3"
 		    }
 	    ]
+    },
+    "distant.artyshot": {
+	    "sounds": [
+		    {
+			    "name": "distant/artyshotfar1"
+		    },
+		    {
+			    "name": "distant/artyshotfar2"
+		    }
+	    ]
+    },
+	"distant.spell.heal": {
+        "replace": false,
+        "sounds": [
+            "distant/healfar"
+        ]
+    },
+	"distant.spell.flash": {
+        "replace": false,
+        "sounds": [
+            "distant/flashfar"
+        ]
     },
 
 	"build_cast": {
