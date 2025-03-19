@@ -14,6 +14,7 @@
     {"predicate": {"custom_model_data": 7},"model": "item/radianiumwartorch"},
     {"predicate": {"custom_model_data": 8},"model": "item/civilization/tarkantorch"},
     {"predicate": {"custom_model_data": 9},"model": "item/civilization/searchtorch"},
+    {"predicate": {"custom_model_data": 10},"model": "item/civilization/searchlight"},
     {"predicate": {"custom_model_data": 20},"model": "item/torchofnight"}
 	]
 }
