@@ -20,6 +20,12 @@
   {"predicate": {"custom_model_data": 108},"model": "item/skill/flarearrow"},
   {"predicate": {"custom_model_data": 109},"model": "item/skill/arrowslam"},
   {"predicate": {"custom_model_data": 110},"model": "item/skill/naturedetox"},
-  {"predicate": {"custom_model_data": 111},"model": "item/skill/swiftflip"}
+  {"predicate": {"custom_model_data": 111},"model": "item/skill/swiftflip"},
+  {"predicate": {"custom_model_data": 112},"model": "item/skill/pursuit"},
+  {"predicate": {"custom_model_data": 113},"model": "item/skill/impactmine"},
+  {"predicate": {"custom_model_data": 114},"model": "item/skill/captainstance"},
+  {"predicate": {"custom_model_data": 115},"model": "item/skill/markmanfootwork"},
+  {"predicate": {"custom_model_data": 116},"model": "item/skill/rangersmokebomb"},
+  {"predicate": {"custom_model_data": 117},"model": "item/skill/rangergearup"}
 ]
 }

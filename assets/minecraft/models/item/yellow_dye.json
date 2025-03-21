@@ -9,6 +9,13 @@
     {"predicate": {"custom_model_data": 30},"model": "item/yellowpill"},
     {"predicate": {"custom_model_data": 40},"model": "item/goldamalgam"},
     {"predicate": {"custom_model_data": 100},"model": "item/skill/mendtorch"},
-    {"predicate": {"custom_model_data": 101},"model": "item/skill/lessersmite"}
+    {"predicate": {"custom_model_data": 101},"model": "item/skill/lessersmite"},
+    {"predicate": {"custom_model_data": 102},"model": "item/skill/precenseofmind"},
+    {"predicate": {"custom_model_data": 103},"model": "item/skill/fastinggut"},
+    {"predicate": {"custom_model_data": 104},"model": "item/skill/blessing"},
+    {"predicate": {"custom_model_data": 105},"model": "item/skill/cleanse"},
+    {"predicate": {"custom_model_data": 106},"model": "item/skill/mendingfield"},
+    {"predicate": {"custom_model_data": 107},"model": "item/skill/mendingball"},
+    {"predicate": {"custom_model_data": 108},"model": "item/skill/rejuvinate"}
 	]
 }

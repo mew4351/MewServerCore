@@ -33,6 +33,10 @@
     {"predicate": {"custom_model_data": 122},"model": "item/skill/counterswing"},
     {"predicate": {"custom_model_data": 123},"model": "item/skill/pierceblast"},
     {"predicate": {"custom_model_data": 124},"model": "item/skill/transfusion"},
-    {"predicate": {"custom_model_data": 125},"model": "item/skill/shieldbash"}
+    {"predicate": {"custom_model_data": 125},"model": "item/skill/shieldbash"},
+    {"predicate": {"custom_model_data": 126},"model": "item/skill/blazingfanning"},
+    {"predicate": {"custom_model_data": 127},"model": "item/skill/battlecry"},
+    {"predicate": {"custom_model_data": 128},"model": "item/skill/battlerush"},
+    {"predicate": {"custom_model_data": 129},"model": "item/skill/nerveshock"}
 	]
 }
