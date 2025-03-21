@@ -38,6 +38,12 @@
             "ambient/arcanetowerambient"
         ]
     },
+	"ambient.blacksmithambient": {
+        "replace": false,
+        "sounds": [
+            "ambient/blacksmithambient"
+        ]
+    },
     "entity.generic.explode": {
 	    "sounds": [
 		    {
