@@ -30,6 +30,7 @@
   {"predicate": {"custom_model_data": 116},"model": "item/skill/lightimbue"},
   {"predicate": {"custom_model_data": 117},"model": "item/skill/arcanestrike"},
   {"predicate": {"custom_model_data": 118},"model": "item/skill/deathray"},
-  {"predicate": {"custom_model_data": 119},"model": "item/skill/tornado"}
+  {"predicate": {"custom_model_data": 119},"model": "item/skill/tornado"},
+  {"predicate": {"custom_model_data": 120},"model": "item/skill/updraft"}
 ]
 }
