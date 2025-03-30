@@ -19,6 +19,7 @@
     {"predicate": {"custom_model_data": 40},"model": "item/oc/goldencross"},
     {"predicate": {"custom_model_data": 41},"model": "item/oc/bloodycross"},
     {"predicate": {"custom_model_data": 42},"model": "item/oc/withercharm"},
+    {"predicate": {"custom_model_data": 43},"model": "item/oc/withercharm"},
     {"predicate": {"custom_model_data": 100},"model": "item/chemical/hydrogen"},
     {"predicate": {"custom_model_data": 101},"model": "item/chemical/oxygen"},
     {"predicate": {"custom_model_data": 102},"model": "item/chemical/nitrogen"},

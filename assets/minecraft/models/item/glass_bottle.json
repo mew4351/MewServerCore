@@ -50,6 +50,7 @@
     {"predicate": {"custom_model_data": 55},"model": "item/potion/heatwavepotion"},
     {"predicate": {"custom_model_data": 56},"model": "item/potion/investigatepotion"},
     {"predicate": {"custom_model_data": 57},"model": "item/potion/blowjumppotion"},
-    {"predicate": {"custom_model_data": 58},"model": "item/potion/psychicpotion"}
+    {"predicate": {"custom_model_data": 58},"model": "item/potion/psychicpotion"},
+    {"predicate": {"custom_model_data": 59},"model": "item/potion/greatpsychicpotion"}
 	]
 }

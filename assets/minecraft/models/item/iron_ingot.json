@@ -20,6 +20,7 @@
     {"predicate": {"custom_model_data": 13},"model": "item/supercharger"},
     {"predicate": {"custom_model_data": 14},"model": "item/supercharger"},
     {"predicate": {"custom_model_data": 15},"model": "item/metalsheet"},
+    {"predicate": {"custom_model_data": 16},"model": "item/skinstriper"},
     {"predicate": {"custom_model_data": 20},"model": "item/steelingot"},
     {"predicate": {"custom_model_data": 21},"model": "item/silveringot"},
     {"predicate": {"custom_model_data": 22},"model": "item/lunium"},

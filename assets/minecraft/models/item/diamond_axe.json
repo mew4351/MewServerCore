@@ -16,6 +16,8 @@
     {"predicate": {"custom_model_data": 9},"model": "item/diamondmace"},
     {"predicate": {"custom_model_data": 10},"model": "item/mithrilmace"},
     {"predicate": {"custom_model_data": 11},"model": "item/civilization/leviathanaxe1"},
+    {"predicate": {"custom_model_data": 12},"model": "item/civilization/diamondvikingaxe"},
+    {"predicate": {"custom_model_data": 13},"model": "item/civilization/titaniumvikingaxe"},
 
     {"predicate": {"custom_model_data": 90},"model": "item/skin/unknowaxe"},
     {"predicate": {"custom_model_data": 91},"model": "item/skin/unknowhammer"}

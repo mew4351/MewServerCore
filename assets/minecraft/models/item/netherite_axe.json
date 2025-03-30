@@ -13,6 +13,7 @@
     {"predicate": {"custom_model_data": 6},"model": "item/tithirlaxe"},
     {"predicate": {"custom_model_data": 7},"model": "item/netheritemace"},
     {"predicate": {"custom_model_data": 8},"model": "item/tithrilmace"},
-    {"predicate": {"custom_model_data": 9},"model": "item/civilization/leviathanaxe2"}
+    {"predicate": {"custom_model_data": 9},"model": "item/civilization/leviathanaxe2"},
+    {"predicate": {"custom_model_data": 10},"model": "item/civilization/netheritevikingaxe"}
   ]
 }

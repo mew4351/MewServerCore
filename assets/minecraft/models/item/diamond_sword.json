@@ -34,6 +34,7 @@
   {"predicate": {"custom_model_data": 27},"model": "item/civilization/diamondtonfa"},
   {"predicate": {"custom_model_data": 28},"model": "item/civilization/diamondfirelance"},
   {"predicate": {"custom_model_data": 29},"model": "item/civilization/titaniumfirelance"},
+  {"predicate": {"custom_model_data": 30},"model": "item/civilization/titaniumtonfa"},
   
   {"predicate": {"custom_model_data": 88},"model": "item/wooden_sword"},
   {"predicate": {"custom_model_data": 89},"model": "item/skin/rustysword"},

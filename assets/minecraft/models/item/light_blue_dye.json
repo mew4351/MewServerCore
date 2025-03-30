@@ -37,6 +37,13 @@
     {"predicate": {"custom_model_data": 126},"model": "item/skill/blazingfanning"},
     {"predicate": {"custom_model_data": 127},"model": "item/skill/battlecry"},
     {"predicate": {"custom_model_data": 128},"model": "item/skill/battlerush"},
-    {"predicate": {"custom_model_data": 129},"model": "item/skill/nerveshock"}
+    {"predicate": {"custom_model_data": 129},"model": "item/skill/nerveshock"},
+    {"predicate": {"custom_model_data": 130},"model": "item/skill/radiantimpale"},
+    {"predicate": {"custom_model_data": 131},"model": "item/skill/swordmastery"},
+    {"predicate": {"custom_model_data": 132},"model": "item/skill/radiantbolt"},
+    {"predicate": {"custom_model_data": 133},"model": "item/skill/deeplunge"},
+    {"predicate": {"custom_model_data": 134},"model": "item/skill/bargainlunge"},
+    {"predicate": {"custom_model_data": 135},"model": "item/skill/dragoncall"},
+    {"predicate": {"custom_model_data": 136},"model": "item/skill/echobrawl"}
 	]
 }
