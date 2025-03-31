@@ -2343,6 +2343,84 @@
 		    }
 	    ]
     },
+	"distant.heavyartyfire": {
+        "replace": false,
+        "sounds": [
+            "distant/heavyartyfirefar"
+        ]
+    },
+	"distant.88mmfire": {
+        "replace": false,
+        "sounds": [
+            "distant/88mmfirefar"
+        ]
+    },
+	"distant.88mmhit": {
+        "replace": false,
+        "sounds": [
+            "distant/88mmhitfar"
+        ]
+    },
+    "distant.120mmhit": {
+	    "sounds": [
+		    {
+			    "name": "distant/120mmhitfar1"
+		    },
+		    {
+			    "name": "distant/120mmhitfar2"
+		    }
+	    ]
+    },
+	"distant.200mmfire": {
+        "replace": false,
+        "sounds": [
+            "distant/200mmfirefar"
+        ]
+    },
+	"distant.mortarshot": {
+        "replace": false,
+        "sounds": [
+            "distant/mortarshotfar"
+        ]
+    },
+    "distant.mortarhit": {
+	    "sounds": [
+		    {
+			    "name": "distant/mortarhitfar1"
+		    },
+		    {
+			    "name": "distant/mortarhitfar2"
+		    }
+	    ]
+    },
+    "distant.heavyexplosive": {
+	    "sounds": [
+		    {
+			    "name": "heavyexplosivefar1"
+		    },
+		    {
+			    "name": "heavyexplosivefar2"
+		    }
+	    ]
+    },
+	"distant.heavyshellincome": {
+        "replace": false,
+        "sounds": [
+            "distant/heavyshellincomefar"
+        ]
+    },
+	"distant.highflyplane": {
+        "replace": false,
+        "sounds": [
+            "distant/highflyplane"
+        ]
+    },
+	"distant.overflightfar": {
+        "replace": false,
+        "sounds": [
+            "distant/overflightfar"
+        ]
+    },
 	"distant.spell.heal": {
         "replace": false,
         "sounds": [
@@ -2356,6 +2434,71 @@
         ]
     },
 
+	"arty.heavyartyfire": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/heavyartyfire"
+        ]
+    },
+	"arty.lightshellincome": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/lightshellincome"
+        ]
+    },
+    "arty.heavyshellincome": {
+	    "sounds": [
+		    {
+			    "name": "weaponsfx/heavyshellincome1"
+		    },
+		    {
+			    "name": "weaponsfx/heavyshellincome2"
+		    },
+		    {
+			    "name": "weaponsfx/heavyshellincome3"
+		    }
+	    ]
+    },
+    "arty.88mmhit": {
+	    "sounds": [
+		    {
+			    "name": "weaponsfx/88mmhit1"
+		    },
+		    {
+			    "name": "weaponsfx/88mmhit2"
+		    }
+	    ]
+    },
+    "arty.120mmhit": {
+	    "sounds": [
+		    {
+			    "name": "weaponsfx/120mmhit1"
+		    },
+		    {
+			    "name": "weaponsfx/120mmhit2"
+		    }
+	    ]
+    },
+    "arty.200mmhit": {
+	    "sounds": [
+		    {
+			    "name": "weaponsfx/200mmhit1"
+		    },
+		    {
+			    "name": "weaponsfx/200mmhit2"
+		    }
+	    ]
+    },
+    "heavyexplosive": {
+	    "sounds": [
+		    {
+			    "name": "heavyexplosive1"
+		    },
+		    {
+			    "name": "heavyexplosive2"
+		    }
+	    ]
+    },
 	"build_cast": {
         "replace": false,
         "sounds": [
@@ -2402,6 +2545,42 @@
                 "name": "mainskill/missileturret_fire2",
                 "stream": true
             }
+        ]
+    },
+    "barrage.mortarhit": {
+        "sounds": [
+            {
+                "name": "weaponsfx/mortarhit1",
+                "stream": true
+            },
+            {
+                "name": "weaponsfx/mortarhit2",
+                "stream": true
+            }
+        ]
+    },
+	"income.mortar": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/mortarincome"
+        ]
+    },
+	"plane.overflight": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/overflight"
+        ]
+    },
+	"plane.stukasiren": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/stukasiren"
+        ]
+    },
+	"plane.planebomb": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/planebomb"
         ]
     },
 	"laserturret_ready": {
