@@ -42,6 +42,11 @@
   {"predicate": {"custom_model_data": 35},"model": "item/radianiumcraver"},
   {"predicate": {"custom_model_data": 36},"model": "item/radianiumcraver_alt"},
   {"predicate": {"custom_model_data": 37},"model": "item/civilization/netheritefirelance"},
-  {"predicate": {"custom_model_data": 38},"model": "item/civilization/netheritetonfa"}
+  {"predicate": {"custom_model_data": 38},"model": "item/civilization/netheritetonfa"},
+  {"predicate": {"custom_model_data": 39},"model": "item/civilization/tithrilfirelance"},
+  {"predicate": {"custom_model_data": 40},"model": "item/civilization/tithriltonfa"},
+  {"predicate": {"custom_model_data": 41},"model": "item/civilization/jinroyaltithrilfirelance"},
+  {"predicate": {"custom_model_data": 42},"model": "item/civilization/jinroyaltithriltonfa"},
+  {"predicate": {"custom_model_data": 43},"model": "item/civilization/jintithrilroyalboardsword"}
 ]
 }

@@ -75,6 +75,9 @@
     {"predicate": {"custom_model_data": 125},"model": "item/civilization/fhsvartalfheim"},
     {"predicate": {"custom_model_data": 126},"model": "item/civilization/fhvanaheim"},
     {"predicate": {"custom_model_data": 127},"model": "item/equipment_mod/invarhammerspike"},
+    {"predicate": {"custom_model_data": 128},"model": "item/equipment_mod/polygonalshoulderguard"},
+    {"predicate": {"custom_model_data": 129},"model": "item/equipment_mod/slopeshoulderguard"},
+    {"predicate": {"custom_model_data": 130},"model": "item/equipment_mod/spikedshoulderguard"},
     {"predicate": {"custom_model_data": 150},"model": "item/wheel"},
     {"predicate": {"custom_model_data": 151},"model": "item/actuator"}, 
     {"predicate": {"custom_model_data": 152},"model": "item/engine"}

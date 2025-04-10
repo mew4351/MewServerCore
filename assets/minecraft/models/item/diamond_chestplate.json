@@ -5,8 +5,8 @@
   },
   "overrides":
   [
-    {"predicate": {"custom_model_data": 1},"model": "item/titaniumchestplate"},
-    {"predicate": {"custom_model_data": 2},"model": "item/mithrilchestplate"},
+    {"predicate": {"custom_model_data": 1},"model": "item/titanium-chestplate"},
+    {"predicate": {"custom_model_data": 2},"model": "item/mithril-chestplate"},
     {"predicate": {"custom_model_data": 3},"model": "item/whitechestplate"},
     {"predicate": {"custom_model_data": 4},"model": "item/upgrade/diamond-chestplate-modular"},
     {"predicate": {"custom_model_data": 5},"model": "item/upgrade/titanium-chestplate-modular"},
@@ -16,7 +16,15 @@
     {"predicate": {"custom_model_data": 9},"model": "item/diamond-tunic"},
     {"predicate": {"custom_model_data": 10},"model": "item/diamond-jacket"},
     {"predicate": {"custom_model_data": 11},"model": "item/upgrade/diamond-tunic-modular"},
-    {"predicate": {"custom_model_data": 12},"model": "item/upgrade/diamond-jacket-modular"}
+    {"predicate": {"custom_model_data": 12},"model": "item/upgrade/diamond-jacket-modular"},
+    {"predicate": {"custom_model_data": 13},"model": "item/titanium-tunic"},
+    {"predicate": {"custom_model_data": 14},"model": "item/titanium-jacket"},
+    {"predicate": {"custom_model_data": 15},"model": "item/mithril-tunic"},
+    {"predicate": {"custom_model_data": 16},"model": "item/mithril-jacket"},
+    {"predicate": {"custom_model_data": 17},"model": "item/upgrade/titanium-tunic-modular"},
+    {"predicate": {"custom_model_data": 18},"model": "item/upgrade/titanium-jacket-modular"},
+    {"predicate": {"custom_model_data": 19},"model": "item/upgrade/mithril-tunic-modular"},
+    {"predicate": {"custom_model_data": 20},"model": "item/upgrade/mithril-jacket-modular"}
 
   ]
 }

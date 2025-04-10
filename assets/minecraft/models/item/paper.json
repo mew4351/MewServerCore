@@ -67,6 +67,7 @@
     {"predicate": {"custom_model_data": 60},"model": "item/civilization/greycard"},
     {"predicate": {"custom_model_data": 61},"model": "item/civilization/purplecard"},
     {"predicate": {"custom_model_data": 62},"model": "item/civilization/redcard"},
+    {"predicate": {"custom_model_data": 63},"model": "item/scipoint_yellow"},
 
     {"predicate": {"custom_model_data": 100},"model": "item/gui/button/research_button"},
     {"predicate": {"custom_model_data": 101},"model": "item/gui/button/reward_button"},

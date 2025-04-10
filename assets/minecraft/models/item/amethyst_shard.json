@@ -26,6 +26,18 @@
     {"predicate": {"custom_model_data": 19},"model": "item/soulshards"},
     {"predicate": {"custom_model_data": 30},"model": "item/genepack"},
     {"predicate": {"custom_model_data": 31},"model": "item/sigmagenepack"},
-    {"predicate": {"custom_model_data": 32},"model": "item/emptygenepack"}
+    {"predicate": {"custom_model_data": 32},"model": "item/emptygenepack"},
+    {"predicate": {"custom_model_data": 40},"model": "item/insight_supremacy"},
+    {"predicate": {"custom_model_data": 41},"model": "item/insight_technology"},
+    {"predicate": {"custom_model_data": 42},"model": "item/insight_industry"},
+    {"predicate": {"custom_model_data": 43},"model": "item/insight_economy"},
+    {"predicate": {"custom_model_data": 44},"model": "item/database_supremacy"},
+    {"predicate": {"custom_model_data": 45},"model": "item/database_technology"},
+    {"predicate": {"custom_model_data": 46},"model": "item/database_industry"},
+    {"predicate": {"custom_model_data": 47},"model": "item/database_economy"},
+    {"predicate": {"custom_model_data": 48},"model": "item/wisdom_supremacy"},
+    {"predicate": {"custom_model_data": 49},"model": "item/wisdom_technology"},
+    {"predicate": {"custom_model_data": 50},"model": "item/wisdom_industry"},
+    {"predicate": {"custom_model_data": 51},"model": "item/wisdom_economy"}
   ]
 }
