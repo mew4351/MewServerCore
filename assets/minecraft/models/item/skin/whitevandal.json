@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/anvil",
-		"3": "block/black_wool",
+		"3": "block/white_wool",
 		"particle": "block/iron_block"
 	},
 	"elements": [

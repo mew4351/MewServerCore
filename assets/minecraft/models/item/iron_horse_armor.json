@@ -35,12 +35,22 @@
     {"predicate": {"custom_model_data": 63},"model": "item/supervandal"},
     {"predicate": {"custom_model_data": 64},"model": "item/kilometer"},
     {"predicate": {"custom_model_data": 65},"model": "item/civilization/lisbonrifle"},
+    {"predicate": {"custom_model_data": 66},"model": "item/gunphantom"},
+    {"predicate": {"custom_model_data": 67},"model": "item/gunfenrir"},
+    {"predicate": {"custom_model_data": 68},"model": "item/gunnova"},
+    {"predicate": {"custom_model_data": 69},"model": "item/gunguardian"},
     {"predicate": {"custom_model_data": 70},"model": "item/grenadelauncher"},
     {"predicate": {"custom_model_data": 71},"model": "item/grenadelauncher2"},
     {"predicate": {"custom_model_data": 72},"model": "item/thunderbird"},
     {"predicate": {"custom_model_data": 73},"model": "item/thunderbirdx"},
     {"predicate": {"custom_model_data": 74},"model": "item/firearm/ba/echolink"},
     {"predicate": {"custom_model_data": 75},"model": "item/firearm/ba/eyeofhorus"},
-    {"predicate": {"custom_model_data": 76},"model": "item/firearm/ba/sincerity"}
+    {"predicate": {"custom_model_data": 76},"model": "item/firearm/ba/sincerity"},
+    {"predicate": {"custom_model_data": 77},"model": "item/skin/whitefenrir"},
+    {"predicate": {"custom_model_data": 78},"model": "item/skin/whiteguardian"},
+    {"predicate": {"custom_model_data": 79},"model": "item/skin/whitenova"},
+    {"predicate": {"custom_model_data": 80},"model": "item/skin/whitephantom"},
+    {"predicate": {"custom_model_data": 81},"model": "item/skin/whitevandal"},
+    {"predicate": {"custom_model_data": 82},"model": "item/skin/gunguardian"}
 	]
 }
