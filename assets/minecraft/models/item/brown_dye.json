@@ -8,6 +8,7 @@
     {"predicate": {"custom_model_data": 1},"model": "item/yellowspice"},
     {"predicate": {"custom_model_data": 2},"model": "item/cellulosepulp"},
     {"predicate": {"custom_model_data": 3},"model": "item/cellulosefiber"},
-    {"predicate": {"custom_model_data": 4},"model": "item/goods/spicespack"}
+    {"predicate": {"custom_model_data": 4},"model": "item/goods/spicespack"},
+    {"predicate": {"custom_model_data": 5},"model": "item/prime/livingwood"}
   ]
 }

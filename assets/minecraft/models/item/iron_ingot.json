@@ -21,6 +21,7 @@
     {"predicate": {"custom_model_data": 14},"model": "item/supercharger"},
     {"predicate": {"custom_model_data": 15},"model": "item/metalsheet"},
     {"predicate": {"custom_model_data": 16},"model": "item/skinstriper"},
+    {"predicate": {"custom_model_data": 17},"model": "item/fluidcontainer"},
     {"predicate": {"custom_model_data": 20},"model": "item/steelingot"},
     {"predicate": {"custom_model_data": 21},"model": "item/silveringot"},
     {"predicate": {"custom_model_data": 22},"model": "item/lunium"},
@@ -80,6 +81,18 @@
     {"predicate": {"custom_model_data": 130},"model": "item/equipment_mod/spikedshoulderguard"},
     {"predicate": {"custom_model_data": 150},"model": "item/wheel"},
     {"predicate": {"custom_model_data": 151},"model": "item/actuator"}, 
-    {"predicate": {"custom_model_data": 152},"model": "item/engine"}
+    {"predicate": {"custom_model_data": 152},"model": "item/engine"}, 
+    {"predicate": {"custom_model_data": 153},"model": "item/prime/ancientcore"}, 
+    {"predicate": {"custom_model_data": 154},"model": "item/militaryrobopart"}, 
+    {"predicate": {"custom_model_data": 155},"model": "item/industrialrobopart"}, 
+    {"predicate": {"custom_model_data": 156},"model": "item/robobattery"}, 
+    {"predicate": {"custom_model_data": 157},"model": "item/robocontroller"}, 
+    {"predicate": {"custom_model_data": 158},"model": "item/rocketassembly"}, 
+    {"predicate": {"custom_model_data": 159},"model": "item/lowdensitybody"}, 
+    {"predicate": {"custom_model_data": 160},"model": "item/rocketengineunit"}, 
+    {"predicate": {"custom_model_data": 161},"model": "item/rocketfueltank"}, 
+    {"predicate": {"custom_model_data": 162},"model": "item/rocketcapsule"}, 
+    {"predicate": {"custom_model_data": 163},"model": "item/rocketservicemodule"}, 
+    {"predicate": {"custom_model_data": 164},"model": "item/ionengineunit"}
 	]
 }

@@ -6,6 +6,10 @@
   "overrides":
 [
   {"predicate": {"custom_model_data": 1},"model": "item/bronzeingot"},
+  {"predicate": {"custom_model_data": 2},"model": "item/lithiumbar"},
+  {"predicate": {"custom_model_data": 3},"model": "item/neodymiumshards"},
+  {"predicate": {"custom_model_data": 4},"model": "item/bismuthcrystal"},
+  {"predicate": {"custom_model_data": 5},"model": "item/siliconwafer"},
   {"predicate": {"custom_model_data": 20},"model": "item/everblueingot"},
   {"predicate": {"custom_model_data": 21},"model": "item/brassingot"},
   {"predicate": {"custom_model_data": 22},"model": "item/constantaningot"},

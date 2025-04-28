@@ -9,6 +9,7 @@
     {"predicate": {"custom_model_data": 2},"model": "item/marketcard_eo"},
     {"predicate": {"custom_model_data": 3},"model": "item/marketcard_is"},
     {"predicate": {"custom_model_data": 4},"model": "item/marketcard_it"},
+    {"predicate": {"custom_model_data": 5},"model": "item/prime/undeadcrown"},
     {"predicate": {"custom_model_data": 20},"model": "item/watchfulwardstone"},
     {"predicate": {"custom_model_data": 21},"model": "item/electrumingot"},
     {"predicate": {"custom_model_data": 22},"model": "item/anthium"},

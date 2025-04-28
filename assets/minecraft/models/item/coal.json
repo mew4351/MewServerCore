@@ -6,6 +6,9 @@
     "overrides":
 	[
     {"predicate": {"custom_model_data": 1},"model": "item/wasteland/lighterfuel"},
+    {"predicate": {"custom_model_data": 2},"model": "item/fluid/liquidmethan"},
+    {"predicate": {"custom_model_data": 3},"model": "item/fluid/jetfuel"},
+    {"predicate": {"custom_model_data": 4},"model": "item/solidfuel"},
     {"predicate": {"custom_model_data": 20},"model": "item/graphite"},
     {"predicate": {"custom_model_data": 21},"model": "item/toughcarbon"},
     {"predicate": {"custom_model_data": 22},"model": "item/coke"},
