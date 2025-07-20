@@ -51,6 +51,7 @@
   {"predicate": {"custom_model_data": 44},"model": "item/civilization/murasama"},
   {"predicate": {"custom_model_data": 45},"model": "item/civilization/muramizu"},
   {"predicate": {"custom_model_data": 46},"model": "item/civilization/murakaze"},
-  {"predicate": {"custom_model_data": 47},"model": "item/skin/mastersword"}
+  {"predicate": {"custom_model_data": 47},"model": "item/skin/mastersword"},
+  {"predicate": {"custom_model_data": 48},"model": "item/civilization/tithrilkatana"}
 ]
 }
