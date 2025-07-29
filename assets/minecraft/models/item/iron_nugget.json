@@ -28,6 +28,10 @@
     {"predicate": {"custom_model_data": 22},"model": "item/equipment_mod/speartipeffect"},
     {"predicate": {"custom_model_data": 23},"model": "item/equipment_mod/jewertipeffect"},
     {"predicate": {"custom_model_data": 24},"model": "item/equipment_mod/invarhammerspike"},
+    {"predicate": {"custom_model_data": 25},"model": "item/equipment_mod/steelflamingspeartip"},
+    {"predicate": {"custom_model_data": 26},"model": "item/equipment_mod/titaniumflamingspeartip"},
+    {"predicate": {"custom_model_data": 27},"model": "item/equipment_mod/netheriteflamingspeartip"},
+    {"predicate": {"custom_model_data": 28},"model": "item/equipment_mod/netheritefreezingspeartip"},
     
     {"predicate": {"custom_model_data": 30},"model": "item/graypill"},
     {"predicate": {"custom_model_data": 31},"model": "item/ironpowder"},

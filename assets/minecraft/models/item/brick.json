@@ -60,6 +60,11 @@
     {"predicate": {"custom_model_data": 56},"model": "item/wasteland/onetimesyringe"},
     {"predicate": {"custom_model_data": 57},"model": "item/wasteland/component"},
     {"predicate": {"custom_model_data": 58},"model": "item/civilization/runeplate"},
-    {"predicate": {"custom_model_data": 59},"model": "item/siliconwafer"}
+    {"predicate": {"custom_model_data": 59},"model": "item/siliconwafer"},
+    {"predicate": {"custom_model_data": 60},"model": "item/civilization/hoshosode"},
+    {"predicate": {"custom_model_data": 61},"model": "item/civilization/bushisode"},
+    {"predicate": {"custom_model_data": 62},"model": "item/civilization/hoshosode2"},
+    {"predicate": {"custom_model_data": 63},"model": "item/civilization/bushisode2"},
+    {"predicate": {"custom_model_data": 64},"model": "item/equipment_mod/portablegrindstone"}
 	]
 }

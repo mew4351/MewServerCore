@@ -7,6 +7,9 @@
 	[
     {"predicate": {"custom_model_data": 1},"model": "item/radianite"},
     {"predicate": {"custom_model_data": 2},"model": "item/superconductor"},
+    {"predicate": {"custom_model_data": 3},"model": "item/bismuthcrystal"},
+    {"predicate": {"custom_model_data": 4},"model": "item/lithiumbar"},
+    {"predicate": {"custom_model_data": 5},"model": "item/neodymiumshards"},
     {"predicate": {"custom_model_data": 20},"model": "item/quicksilversash"},
     {"predicate": {"custom_model_data": 30},"model": "item/nickelore"},
     {"predicate": {"custom_model_data": 31},"model": "item/solder"}
