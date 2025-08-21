@@ -13,6 +13,23 @@
   {"predicate": {"custom_model_data": 20},"model": "item/everblueingot"},
   {"predicate": {"custom_model_data": 21},"model": "item/brassingot"},
   {"predicate": {"custom_model_data": 22},"model": "item/constantaningot"},
-  {"predicate": {"custom_model_data": 23},"model": "item/teslacoil"}
+  {"predicate": {"custom_model_data": 23},"model": "item/teslacoil"},
+
+  {"predicate": {"custom_model_data": 30},"model": "item/vessel/shippaddle"},
+  {"predicate": {"custom_model_data": 31},"model": "item/vessel/shipmast"},
+  {"predicate": {"custom_model_data": 32},"model": "item/vessel/shiphull"},
+  {"predicate": {"custom_model_data": 33},"model": "item/vessel/shipsail"},
+  {"predicate": {"custom_model_data": 34},"model": "item/vessel/shiparmorplate"},
+  {"predicate": {"custom_model_data": 35},"model": "item/vessel/shipweightblock"},
+  {"predicate": {"custom_model_data": 36},"model": "item/vessel/shipcannon"},
+  {"predicate": {"custom_model_data": 37},"model": "item/vessel/shipballista"},
+  {"predicate": {"custom_model_data": 38},"model": "item/vessel/shipmortar"},
+  {"predicate": {"custom_model_data": 39},"model": "item/vessel/shiparcherstation"},
+  {"predicate": {"custom_model_data": 40},"model": "item/vessel/shipmarineboarder"},
+  {"predicate": {"custom_model_data": 41},"model": "item/vessel/shipcrew"},
+  {"predicate": {"custom_model_data": 42},"model": "item/vessel/shipsteelpaddle"},
+  {"predicate": {"custom_model_data": 43},"model": "item/vessel/shippropeller"},
+  {"predicate": {"custom_model_data": 44},"model": "item/vessel/shipsimpleengine"},
+  {"predicate": {"custom_model_data": 45},"model": "item/vessel/shipadvancesteamengine"}
 ]
 }

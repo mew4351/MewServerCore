@@ -106,6 +106,17 @@
     {"predicate": {"custom_model_data": 346},"model": "item/gui/research/cityheatrange6"},
     {"predicate": {"custom_model_data": 347},"model": "item/gui/research/cityheatcoverdrive1"},
     {"predicate": {"custom_model_data": 348},"model": "item/gui/research/cityheatcoverdrive2"},
-    {"predicate": {"custom_model_data": 349},"model": "item/gui/research/cityheatcoverdrive3"}
+    {"predicate": {"custom_model_data": 349},"model": "item/gui/research/cityheatcoverdrive3"},
+    {"predicate": {"custom_model_data": 350},"model": "item/gui/primeres/rs1_chemistry"},
+    {"predicate": {"custom_model_data": 351},"model": "item/gui/primeres/rs1_earthenware"},
+    {"predicate": {"custom_model_data": 352},"model": "item/gui/primeres/rs1_croprotation"},
+    {"predicate": {"custom_model_data": 353},"model": "item/gui/primeres/rs1_plannedhunting"},
+    {"predicate": {"custom_model_data": 354},"model": "item/gui/primeres/rs1_townwatch"},
+    {"predicate": {"custom_model_data": 355},"model": "item/gui/primeres/rs1_gunpowder"},
+    {"predicate": {"custom_model_data": 356},"model": "item/gui/primeres/rs1_engineering"},
+    {"predicate": {"custom_model_data": 357},"model": "item/gui/primeres/rs1_swordstencil"},
+    {"predicate": {"custom_model_data": 358},"model": "item/gui/primeres/rs1_arrowcasting"},
+    {"predicate": {"custom_model_data": 359},"model": "item/gui/primeres/rs1_reinforcedleatherwork"},
+    {"predicate": {"custom_model_data": 360},"model": "item/gui/primeres/rs1_ballistic"}
 	]
 }
