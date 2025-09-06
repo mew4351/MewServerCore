@@ -65,6 +65,14 @@
     {"predicate": {"custom_model_data": 61},"model": "item/civilization/bushisode"},
     {"predicate": {"custom_model_data": 62},"model": "item/civilization/hoshosode2"},
     {"predicate": {"custom_model_data": 63},"model": "item/civilization/bushisode2"},
-    {"predicate": {"custom_model_data": 64},"model": "item/equipment_mod/portablegrindstone"}
+    {"predicate": {"custom_model_data": 64},"model": "item/equipment_mod/portablegrindstone"},
+    {"predicate": {"custom_model_data": 65},"model": "item/equipment_mod/sulfurpoisonsac"},
+    {"predicate": {"custom_model_data": 66},"model": "item/equipment_mod/electrumgroove"},
+    {"predicate": {"custom_model_data": 67},"model": "item/equipment_mod/meteoriumheater"},
+    {"predicate": {"custom_model_data": 68},"model": "item/equipment_mod/meteoriumpellet"},
+    {"predicate": {"custom_model_data": 69},"model": "item/equipment_mod/miniheavycore"},
+    {"predicate": {"custom_model_data": 70},"model": "item/equipment_mod/bladespiker"},
+
+    {"predicate": {"custom_model_data": 100},"model": "item/civilization/slrcamera"}
 	]
 }

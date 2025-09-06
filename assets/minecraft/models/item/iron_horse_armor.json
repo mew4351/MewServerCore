@@ -51,6 +51,9 @@
     {"predicate": {"custom_model_data": 79},"model": "item/skin/whitenova"},
     {"predicate": {"custom_model_data": 80},"model": "item/skin/whitephantom"},
     {"predicate": {"custom_model_data": 81},"model": "item/skin/whitevandal"},
-    {"predicate": {"custom_model_data": 82},"model": "item/skin/gunguardian"}
+    {"predicate": {"custom_model_data": 82},"model": "item/skin/gunguardian"},
+    {"predicate": {"custom_model_data": 83},"model": "item/firearm/handcannon"},
+    {"predicate": {"custom_model_data": 84},"model": "item/civilization/janissaryrifle"},
+    {"predicate": {"custom_model_data": 85},"model": "item/civilization/handyorgangun"}
 	]
 }

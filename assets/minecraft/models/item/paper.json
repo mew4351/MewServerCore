@@ -72,6 +72,8 @@
 
     {"predicate": {"custom_model_data": 100},"model": "item/gui/button/research_button"},
     {"predicate": {"custom_model_data": 101},"model": "item/gui/button/reward_button"},
-    {"predicate": {"custom_model_data": 102},"model": "item/gui/button/guard_button"}
+    {"predicate": {"custom_model_data": 102},"model": "item/gui/button/guard_button"},
+    {"predicate": {"custom_model_data": 103},"model": "item/gui/button/guide_button"},
+    {"predicate": {"custom_model_data": 104},"model": "item/gui/button/player_button"}
 	]
 }
