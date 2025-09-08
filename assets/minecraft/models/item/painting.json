@@ -20,6 +20,10 @@
     {"predicate": {"custom_model_data": 28},"model": "item/bn_omen"},
     {"predicate": {"custom_model_data": 40},"model": "item/oc/bloodypainting"},
     {"predicate": {"custom_model_data": 41},"model": "item/oc/gorepainting"},
+
+    {"predicate": {"custom_model_data": 100},"model": "item/mob/recoverytent"},
+    {"predicate": {"custom_model_data": 101},"model": "item/civilization/recoverytent"},
+
     {"predicate": {"custom_model_data": 200},"model": "item/gui/exchanger_gui"},
     {"predicate": {"custom_model_data": 201},"model": "item/gui/heater"},
     {"predicate": {"custom_model_data": 202},"model": "item/gui/heater_dual"},

@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "Modding Shortcut:block/anvil",
-		"1": "Modding Shortcut:block/birch_planks",
-		"particle": "Modding Shortcut:block/anvil"
+		"0": "block/anvil",
+		"1": "block/birch_planks",
+		"particle": "block/anvil"
 	},
 	"elements": [
 		{

@@ -19,7 +19,7 @@
     {"predicate": {"custom_model_data": 47},"model": "item/marshal"},
     {"predicate": {"custom_model_data": 48},"model": "item/firearm/tracer"},
     {"predicate": {"custom_model_data": 49},"model": "item/firearm/banshee"},
-    {"predicate": {"custom_model_data": 50},"model": "item/marshal"},
+    {"predicate": {"custom_model_data": 50},"model": "item/firearm/marshal"},
     {"predicate": {"custom_model_data": 51},"model": "item/marshal_scope"},
     {"predicate": {"custom_model_data": 52},"model": "item/operator"},
     {"predicate": {"custom_model_data": 53},"model": "item/bucky"},
@@ -54,6 +54,8 @@
     {"predicate": {"custom_model_data": 82},"model": "item/skin/gunguardian"},
     {"predicate": {"custom_model_data": 83},"model": "item/firearm/handcannon"},
     {"predicate": {"custom_model_data": 84},"model": "item/civilization/janissaryrifle"},
-    {"predicate": {"custom_model_data": 85},"model": "item/civilization/handyorgangun"}
+    {"predicate": {"custom_model_data": 85},"model": "item/civilization/handyorgangun"},
+    {"predicate": {"custom_model_data": 86},"model": "item/civilization/grenadecannon"},
+    {"predicate": {"custom_model_data": 87},"model": "item/firearm/legionary"}
 	]
 }
