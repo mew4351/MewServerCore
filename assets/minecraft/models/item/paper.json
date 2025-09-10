@@ -69,6 +69,10 @@
     {"predicate": {"custom_model_data": 62},"model": "item/civilization/redcard"},
     {"predicate": {"custom_model_data": 63},"model": "item/scipoint_yellow"},
     {"predicate": {"custom_model_data": 64},"model": "item/civilization/heaventoken"},
+    {"predicate": {"custom_model_data": 65},"model": "item/prime/claimbond1"},
+    {"predicate": {"custom_model_data": 66},"model": "item/prime/claimbond2"},
+    {"predicate": {"custom_model_data": 67},"model": "item/prime/claimbond3"},
+    {"predicate": {"custom_model_data": 68},"model": "item/prime/claimbond4"},
 
     {"predicate": {"custom_model_data": 100},"model": "item/gui/button/research_button"},
     {"predicate": {"custom_model_data": 101},"model": "item/gui/button/reward_button"},

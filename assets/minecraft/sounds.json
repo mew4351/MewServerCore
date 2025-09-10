@@ -1019,7 +1019,7 @@
                 "name": "weaponsfx/shelldrop_small3"
             }
         ]
-    },
+    }, 
 	"shotgunshell": {
         "replace": false,
         "sounds": [
@@ -1031,6 +1031,23 @@
             },
             {
                 "name": "weaponsfx/shotgunshell3"
+            }
+        ]
+    },
+	"bulletricochet": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "bulletricochet1"
+            },
+            {
+                "name": "bulletricochet2"
+            },
+            {
+                "name": "bulletricochet3"
+            },
+            {
+                "name": "bulletricochet4"
             }
         ]
     },
@@ -1461,6 +1478,58 @@
             "swordhit"
         ]
     },
+	"item.spear-thrust": {
+        "replace": false,
+        "sounds": [
+            "item/spear-thrust"
+        ]
+    },
+	"item.hammer-homerun-layer": {
+        "replace": false,
+        "sounds": [
+            "item/hammer-homerun-layer"
+        ]
+    },
+	"item.double-swirl-first": {
+        "replace": false,
+        "sounds": [
+            "item/double-swirl-first"
+        ]
+    },
+	"item.double-swirl-second": {
+        "replace": false,
+        "sounds": [
+            "item/double-swirl-second"
+        ]
+    },
+	"item.sword-dash-start": {
+        "replace": false,
+        "sounds": [
+            "item/sword-dash-start"
+        ]
+    },
+	"item.sword-dash-attack": {
+        "replace": false,
+        "sounds": [
+            "item/sword-dash-attack"
+        ]
+    },
+    "item.katana-dash": {
+	    "sounds": [
+		    {
+			    "name": "item/katana-dash-1"
+		    },
+		    {
+			    "name": "item/katana-dash-2"
+		    }
+	    ]
+    },
+	"item.wind-burst": {
+        "replace": false,
+        "sounds": [
+            "item/katana-wind-burst"
+        ]
+    },
 	"gunpickup1": {
         "replace": false,
         "sounds": [
@@ -1664,6 +1733,112 @@
         "sounds": [
             "valofenrir"
         ]
+    },
+	"gun.legionary-shot": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/legionary-shot-1"
+        ]
+    },
+	"gun.corsair-shot": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/corsair-shot"
+        ]
+    },
+	"gun.division-shot": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/battle-rifle-shot-1"
+        ]
+    },
+	"gun.regiment-shot": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/battle-rifle-shot-2"
+        ]
+    },
+	"gun.lancer-shot": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/lancer-shot-1"
+        ]
+    },
+	"gun.senetor-shot": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/senetor-shot-1"
+        ]
+    },
+	"gun.hand-cannon-shot": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/hand-cannon-shot-1-1"
+        ]
+    },
+	"gun.grenade-cannon-shot": {
+        "replace": false,
+        "sounds": [
+            "weaponsfx/grenade-cannon-shot-1"
+        ]
+    },
+    "gun.wingman-shot": {
+	    "sounds": [
+		    {
+			    "name": "weaponsfx/wingman-shot-1"
+		    },
+		    {
+			    "name": "weaponsfx/wingman-shot-2"
+		    }
+	    ]
+    },
+    "gun.margincall-shot": {
+	    "sounds": [
+		    {
+			    "name": "weaponsfx/margincall-shot-1"
+		    },
+		    {
+			    "name": "weaponsfx/margincall-shot-2"
+		    }
+	    ]
+    },
+	"explosion.nuke-explosion": {
+        "replace": false,
+        "sounds": [
+            "nuke-explosion"
+        ]
+    },
+	"skill.electrum-shock": {
+        "replace": false,
+        "sounds": [
+            "electrum-shock"
+        ]
+    },
+	"skill.close-swosh": {
+        "replace": false,
+        "sounds": [
+            "close-swosh"
+        ]
+    },
+    "entity.recovery-tent-main": {
+	    "sounds": [
+		    {
+			    "name": "entity/recovery-tent-1"
+		    },
+		    {
+			    "name": "entity/recovery-tent-2"
+		    }
+	    ]
+    },
+    "entity.recovery-tent-layer": {
+	    "sounds": [
+		    {
+			    "name": "entity/recovery-tent-layer-1"
+		    },
+		    {
+			    "name": "entity/recovery-tent-layer-2"
+		    }
+	    ]
     },
 	"mob_explosion": {
         "replace": false,
@@ -1958,6 +2133,29 @@
                 "stream": true
             }
         ]
+    },
+    "heavy-bullet-richochet": {
+	    "sounds": [
+		    {
+			    "name": "weaponsfx/at-bullet-richochet-1"
+		    },
+		    {
+			    "name": "weaponsfx/at-bullet-richochet-2"
+		    },
+		    {
+			    "name": "weaponsfx/at-bullet-richochet-3"
+		    }
+	    ]
+    },
+    "heavy-bullet-whistle": {
+	    "sounds": [
+		    {
+			    "name": "weaponsfx/at-bullet-whistle-1"
+		    },
+		    {
+			    "name": "weaponsfx/at-bullet-whistle-2"
+		    }
+	    ]
     },
 
     "plane.jet.flyby.far": {
@@ -2307,6 +2505,16 @@
 		    },
 		    {
 			    "name": "distant/antimatfar2"
+		    }
+	    ]
+    },
+    "distant.at-bullet-richochet": {
+	    "sounds": [
+		    {
+			    "name": "distant/at-bullet-richochet-1"
+		    },
+		    {
+			    "name": "distant/at-bullet-richochet-2"
 		    }
 	    ]
     },
