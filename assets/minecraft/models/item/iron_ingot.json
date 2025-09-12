@@ -94,6 +94,8 @@
     {"predicate": {"custom_model_data": 161},"model": "item/rocketfueltank"}, 
     {"predicate": {"custom_model_data": 162},"model": "item/rocketcapsule"}, 
     {"predicate": {"custom_model_data": 163},"model": "item/rocketservicemodule"}, 
-    {"predicate": {"custom_model_data": 164},"model": "item/ionengineunit"}
+    {"predicate": {"custom_model_data": 164},"model": "item/ionengineunit"},
+    {"predicate": {"custom_model_data": 165},"model": "item/escapepod"},
+    {"predicate": {"custom_model_data": 166},"model": "item/spacedrone"}
 	]
 }

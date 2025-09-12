@@ -5,6 +5,7 @@
   },
   "overrides":
 [
+  {"predicate": {"custom_model_data": 1},"model": "item/configpanel"},
   {"predicate": {"custom_model_data": 20},"model": "item/detonator"},
   {"predicate": {"custom_model_data": 21},"model": "item/detonatorx"}
 ]

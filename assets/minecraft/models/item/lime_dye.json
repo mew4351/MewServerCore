@@ -8,6 +8,11 @@
   {"predicate": {"custom_model_data": 1},"model": "item/croptopia/junglespore"},
   {"predicate": {"custom_model_data": 2},"model": "item/vialofnatureblend"},
   {"predicate": {"custom_model_data": 3},"model": "item/natureessence"},
+  {"predicate": {"custom_model_data": 4},"model": "item/prime/mendingsigil"},
+  {"predicate": {"custom_model_data": 5},"model": "item/prime/vectorhook"},
+  {"predicate": {"custom_model_data": 6},"model": "item/prime/gaiafinger"},
+  {"predicate": {"custom_model_data": 7},"model": "item/prime/blastingspirit"},
+  {"predicate": {"custom_model_data": 8},"model": "item/prime/shatteredvector"},
   {"predicate": {"custom_model_data": 20},"model": "item/unstableuranium"}, 
   {"predicate": {"custom_model_data": 30},"model": "item/limepill"},
 
