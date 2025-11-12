@@ -2641,6 +2641,12 @@
             "distant/flashfar"
         ]
     },
+	"distant.explosive-element": {
+        "replace": false,
+        "sounds": [
+            "distant/explosive-element-1"
+        ]
+    },
 
 	"arty.heavyartyfire": {
         "replace": false,
@@ -3122,6 +3128,12 @@
         "replace": false,
         "sounds": [
             "mob/jesterwind"
+        ]
+    },
+	"mob.nitrocreeper-blast": {
+        "replace": false,
+        "sounds": [
+            "mob/nitro-creeper-blast"
         ]
     },
 	"staticfadeout": {
