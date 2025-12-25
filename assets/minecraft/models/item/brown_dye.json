@@ -9,6 +9,8 @@
     {"predicate": {"custom_model_data": 2},"model": "item/cellulosepulp"},
     {"predicate": {"custom_model_data": 3},"model": "item/cellulosefiber"},
     {"predicate": {"custom_model_data": 4},"model": "item/goods/spicespack"},
-    {"predicate": {"custom_model_data": 5},"model": "item/prime/livingwood"}
+    {"predicate": {"custom_model_data": 5},"model": "item/prime/livingwood"},
+    {"predicate": {"custom_model_data": 6},"model": "item/anomaly/obiliskshard"},
+    {"predicate": {"custom_model_data": 7},"model": "item/anomaly/tamedobilisk"}
   ]
 }

@@ -7,6 +7,8 @@
   [
   {"predicate": {"custom_model_data": 1},"model": "item/zombieartifact"},
   {"predicate": {"custom_model_data": 2},"model": "item/carbonizedflesh"},
+  {"predicate": {"custom_model_data": 3},"model": "item/anomaly/disgustingflesh"},
+  {"predicate": {"custom_model_data": 4},"model": "item/anomaly/crimsonflesh"},
   {"predicate": {"custom_model_data": 40},"model": "item/oc/goldenflesh"}
   ]
 }

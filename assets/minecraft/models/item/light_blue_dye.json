@@ -5,6 +5,7 @@
     },
     "overrides":
 	[
+    {"predicate": {"custom_model_data": 1},"model": "item/anomaly/hallucinoidvapor"},
     {"predicate": {"custom_model_data": 20},"model": "item/glass_lens"},
     {"predicate": {"custom_model_data": 21},"model": "item/dense_lens"},
     {"predicate": {"custom_model_data": 22},"model": "item/diamond_lens"},

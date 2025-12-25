@@ -18,6 +18,8 @@
     {"predicate": {"custom_model_data": 11},"model": "item/gui/armoricon"},
     {"predicate": {"custom_model_data": 12},"model": "item/equipment_mod/echobloodsky"},
     {"predicate": {"custom_model_data": 13},"model": "item/equipment_mod/echohellstar"},
+    {"predicate": {"custom_model_data": 14},"model": "item/anomaly/obiliskphonimagem"},
+    {"predicate": {"custom_model_data": 15},"model": "item/anomaly/ragefluid"},
     {"predicate": {"custom_model_data": 20},"model": "item/rubycrystal"},
     {"predicate": {"custom_model_data": 21},"model": "item/sanguineoflethality"},
     {"predicate": {"custom_model_data": 22},"model": "item/meteorite"},
