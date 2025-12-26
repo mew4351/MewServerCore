@@ -15,6 +15,7 @@
   {"predicate": {"custom_model_data": 8},"model": "item/mobs/cannon"},
   {"predicate": {"custom_model_data": 9},"model": "item/mobs/fieldgun"},
   {"predicate": {"custom_model_data": 10},"model": "item/mobs/artillery"},
+  {"predicate": {"custom_model_data": 11},"model": "item/mob/obiliskoflight"},
   {"predicate": {"custom_model_data": 20},"model": "item/functional/grandpiano"},
   {"predicate": {"custom_model_data": 40},"model": "item/mob/fireknight_helmet"},
   {"predicate": {"custom_model_data": 41},"model": "item/mob/forestknight_helmet"},

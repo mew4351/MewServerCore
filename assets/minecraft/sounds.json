@@ -3267,5 +3267,19 @@
         "sounds": [
             "instrument/pn_cmaj2"
         ]
+    },
+
+    
+	"anomaly.obelisk.charge": {
+        "replace": false,
+        "sounds": [
+            "anomaly/obeliskcharging"
+        ]
+    },
+	"anomaly.obelisk.attack": {
+        "replace": false,
+        "sounds": [
+            "anomaly/obelisklaserfire"
+        ]
     }
 }
