@@ -3124,6 +3124,36 @@
             "mob/deepgroan"
         ]
     },
+	"mob.ghoul.ambient": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "mob/ghoul-idle-1",
+                "stream": true
+            },
+            {
+                "name": "mob/ghoul-idle-2",
+                "stream": true
+            },
+            {
+                "name": "mob/ghoul-idle-3",
+                "stream": true
+            }
+        ]
+    },
+	"mob.ghoul.hit": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "mob/ghoul-hit-1",
+                "stream": true
+            },
+            {
+                "name": "mob/ghoul-hit-2",
+                "stream": true
+            }
+        ]
+    },
 	"mob.jesterwind": {
         "replace": false,
         "sounds": [
@@ -3131,7 +3161,6 @@
         ]
     },
 	"mob.nitrocreeper-blast": {
-        "replace": false,
         "sounds": [
             "mob/nitro-creeper-blast"
         ]
