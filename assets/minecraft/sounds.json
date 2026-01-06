@@ -3154,6 +3154,17 @@
             }
         ]
     },
+	"mob.goreeater.shot": {
+        "replace": false,
+        "sounds": [
+            {
+                "name": "mob/gore-eater-shot-1",
+                "stream": true
+            }
+        ]
+    },
+
+    
 	"mob.jesterwind": {
         "replace": false,
         "sounds": [
