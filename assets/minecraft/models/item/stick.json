@@ -21,6 +21,8 @@
     {"predicate": {"custom_model_data": 14},"model": "item/prime/signalflag2"},
     {"predicate": {"custom_model_data": 15},"model": "item/equipment_mod/battlemasterpole"},
     {"predicate": {"custom_model_data": 16},"model": "item/equipment_mod/guardmasterpole"},
+    {"predicate": {"custom_model_data": 17},"model": "item/equipment_mod/yinhilt"},
+    {"predicate": {"custom_model_data": 18},"model": "item/equipment_mod/yanghilt"},
     {"predicate": {"custom_model_data": 20},"model": "item/commonwand"},
     {"predicate": {"custom_model_data": 21},"model": "item/livingwood"},
     {"predicate": {"custom_model_data": 24},"model": "item/voidstaff"},

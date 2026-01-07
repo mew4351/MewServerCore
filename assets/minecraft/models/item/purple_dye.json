@@ -6,6 +6,9 @@
     "overrides":
 	[
     {"predicate": {"custom_model_data": 1},"model": "item/anomaly/voidmatter"},
+    {"predicate": {"custom_model_data": 2},"model": "item/anomaly/voidsquareidol"},
+    {"predicate": {"custom_model_data": 3},"model": "item/anomaly/voidcircleidol"},
+    {"predicate": {"custom_model_data": 4},"model": "item/anomaly/voidmetalshard"},
     {"predicate": {"custom_model_data": 20},"model": "item/catalystofaeons"},
     {"predicate": {"custom_model_data": 24},"model": "item/blightingjewel"},
     {"predicate": {"custom_model_data": 30},"model": "item/purplepill"}

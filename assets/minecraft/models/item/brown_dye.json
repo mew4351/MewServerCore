@@ -11,6 +11,7 @@
     {"predicate": {"custom_model_data": 4},"model": "item/goods/spicespack"},
     {"predicate": {"custom_model_data": 5},"model": "item/prime/livingwood"},
     {"predicate": {"custom_model_data": 6},"model": "item/anomaly/obiliskshard"},
-    {"predicate": {"custom_model_data": 7},"model": "item/anomaly/tamedobilisk"}
+    {"predicate": {"custom_model_data": 7},"model": "item/anomaly/tamedobilisk"},
+    {"predicate": {"custom_model_data": 8},"model": "item/anomaly/meteoriumheater"}
   ]
 }
