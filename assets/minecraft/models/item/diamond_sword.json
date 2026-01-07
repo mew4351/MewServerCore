@@ -46,6 +46,9 @@
   {"predicate": {"custom_model_data": 92},"model": "item/skin/fishsword"},
   {"predicate": {"custom_model_data": 93},"model": "item/skin/chadchart"},
   {"predicate": {"custom_model_data": 94},"model": "item/skin/footlong"},
-  {"predicate": {"custom_model_data": 95},"model": "item/skin/trueice_lichbane"}
+  {"predicate": {"custom_model_data": 95},"model": "item/skin/trueice_lichbane"},
+  {"predicate": {"custom_model_data": 96},"model": "item/customskin/xerion_by_aldy5922"},
+  {"predicate": {"custom_model_data": 97},"model": "item/customskin/lunar_by_aldy5922"},
+  {"predicate": {"custom_model_data": 98},"model": "item/customskin/curse_by_aldy5922"}
 ]
 }
