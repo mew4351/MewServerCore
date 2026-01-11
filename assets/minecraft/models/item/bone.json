@@ -17,6 +17,8 @@
     {"predicate": {"custom_model_data": 3},"model": "item/vaniliumbone"},
     {"predicate": {"custom_model_data": 4},"model": "item/boneartifact"},
     {"predicate": {"custom_model_data": 5},"model": "item/equipment_mod/bladespiker"},
+    {"predicate": {"custom_model_data": 6},"model": "item/equipment_mod/meteoriumheater"},
+    {"predicate": {"custom_model_data": 7},"model": "item/equipment_mod/electrumgroove"},
     {"predicate": {"custom_model_data": 20},"model": "item/archangelstaff"},
     {"predicate": {"custom_model_data": 21},"model": "item/boneskin"},
     {"predicate": {"custom_model_data": 22},"model": "item/oc/ocbattlespanner"},
