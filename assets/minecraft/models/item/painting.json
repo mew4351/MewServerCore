@@ -36,6 +36,11 @@
     {"predicate": {"custom_model_data": 112},"model": "item/mob/battlesnare"},
     {"predicate": {"custom_model_data": 113},"model": "item/mob/firesnare"},
     {"predicate": {"custom_model_data": 114},"model": "item/mob/shocksnare"},
+    {"predicate": {"custom_model_data": 115},"model": "item/mob/lightmine"},
+    {"predicate": {"custom_model_data": 116},"model": "item/mob/heavymine"},
+    {"predicate": {"custom_model_data": 117},"model": "item/mob/infernomine"},
+    {"predicate": {"custom_model_data": 118},"model": "item/mob/fragmine"},
+    {"predicate": {"custom_model_data": 119},"model": "item/mob/camomine"},
 
     {"predicate": {"custom_model_data": 200},"model": "item/gui/exchanger_gui"},
     {"predicate": {"custom_model_data": 201},"model": "item/gui/heater"},
