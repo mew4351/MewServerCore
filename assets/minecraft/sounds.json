@@ -1840,6 +1840,36 @@
 		    }
 	    ]
     },
+	"gore.mob_explosion": {
+        "replace": false,
+        "sounds": [
+            "mob_explosion"
+        ]
+    },
+	"gore.body-splats": {
+        "replace": false,
+        "sounds": [
+            "body-splats"
+        ]
+    },
+	"gore.blood-drip": {
+        "replace": false,
+        "sounds": [
+            "blood-drip"
+        ]
+    },
+	"gore.small-blood-splats": {
+        "replace": false,
+        "sounds": [
+            "small-blood-splats"
+        ]
+    },
+	"gore.bullet-blood-splats": {
+        "replace": false,
+        "sounds": [
+            "bullet-blood-splats"
+        ]
+    },
 	"mob_explosion": {
         "replace": false,
         "sounds": [
