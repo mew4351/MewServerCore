@@ -41,6 +41,8 @@
     {"predicate": {"custom_model_data": 117},"model": "item/mob/infernomine"},
     {"predicate": {"custom_model_data": 118},"model": "item/mob/fragmine"},
     {"predicate": {"custom_model_data": 119},"model": "item/mob/camomine"},
+    {"predicate": {"custom_model_data": 120},"model": "item/mob/fieldlamp"},
+    {"predicate": {"custom_model_data": 121},"model": "item/mob/fieldtorch"},
 
     {"predicate": {"custom_model_data": 200},"model": "item/gui/exchanger_gui"},
     {"predicate": {"custom_model_data": 201},"model": "item/gui/heater"},
