@@ -6,6 +6,7 @@
     "overrides":
 	[
     {"predicate": {"custom_model_data": 1},"model": "item/foods/rawbrisket"},
-    {"predicate": {"custom_model_data": 2},"model": "item/foods/rawbeefrib"}
+    {"predicate": {"custom_model_data": 2},"model": "item/foods/rawbeefrib"},
+    {"predicate": {"custom_model_data": 3},"model": "item/foods/chucksteak"}
 	]
 }
