@@ -5,6 +5,7 @@
   },
   "overrides":
 [
+  {"predicate": {"custom_model_data": 18},"model": "item/civilization/assaultbomb"},
   {"predicate": {"custom_model_data": 19},"model": "item/tarbomb"},
   {"predicate": {"custom_model_data": 20},"model": "item/grenade"},
   {"predicate": {"custom_model_data": 21},"model": "item/bomb"},

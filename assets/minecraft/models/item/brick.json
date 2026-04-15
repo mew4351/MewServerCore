@@ -72,6 +72,7 @@
     {"predicate": {"custom_model_data": 68},"model": "item/equipment_mod/meteoriumpellet"},
     {"predicate": {"custom_model_data": 69},"model": "item/equipment_mod/miniheavycore"},
     {"predicate": {"custom_model_data": 70},"model": "item/equipment_mod/bladespiker"},
+    {"predicate": {"custom_model_data": 71},"model": "item/equipment_mod/battleheatsink"},
 
     {"predicate": {"custom_model_data": 100},"model": "item/civilization/slrcamera"}
 	]

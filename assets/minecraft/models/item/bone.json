@@ -19,6 +19,8 @@
     {"predicate": {"custom_model_data": 5},"model": "item/equipment_mod/bladespiker"},
     {"predicate": {"custom_model_data": 6},"model": "item/equipment_mod/meteoriumheater"},
     {"predicate": {"custom_model_data": 7},"model": "item/equipment_mod/electrumgroove"},
+    {"predicate": {"custom_model_data": 8},"model": "item/horn"},
+    {"predicate": {"custom_model_data": 9},"model": "item/tusk"},
     {"predicate": {"custom_model_data": 20},"model": "item/archangelstaff"},
     {"predicate": {"custom_model_data": 21},"model": "item/boneskin"},
     {"predicate": {"custom_model_data": 22},"model": "item/oc/ocbattlespanner"},

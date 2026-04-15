@@ -24,7 +24,13 @@
     {"predicate": {"custom_model_data": 17},"model": "item/upgrade/titanium-tunic-modular"},
     {"predicate": {"custom_model_data": 18},"model": "item/upgrade/titanium-jacket-modular"},
     {"predicate": {"custom_model_data": 19},"model": "item/upgrade/mithril-tunic-modular"},
-    {"predicate": {"custom_model_data": 20},"model": "item/upgrade/mithril-jacket-modular"}
+    {"predicate": {"custom_model_data": 20},"model": "item/upgrade/mithril-jacket-modular"},
+    {"predicate": {"custom_model_data": 21},"model": "item/civilization/hoydiamond"},
+    {"predicate": {"custom_model_data": 22},"model": "item/civilization/hoymodulardiamond"},
+    {"predicate": {"custom_model_data": 23},"model": "item/civilization/hoytitanium"},
+    {"predicate": {"custom_model_data": 24},"model": "item/civilization/hoymodulartitanium"},
+    {"predicate": {"custom_model_data": 25},"model": "item/civilization/hoymithril"},
+    {"predicate": {"custom_model_data": 26},"model": "item/civilization/hoymodularmithril"}
 
   ]
 }

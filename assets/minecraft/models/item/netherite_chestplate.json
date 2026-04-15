@@ -10,6 +10,8 @@
     {"predicate": {"custom_model_data": 3},"model": "item/upgrade/netherite-jacket-modular"},
     {"predicate": {"custom_model_data": 4},"model": "item/netherite-chestplate"},
     {"predicate": {"custom_model_data": 5},"model": "item/netherite-tunic"},
-    {"predicate": {"custom_model_data": 6},"model": "item/netherite-jacket"}
+    {"predicate": {"custom_model_data": 6},"model": "item/netherite-jacket"},
+    {"predicate": {"custom_model_data": 7},"model": "item/civilization/hoynetherite"},
+    {"predicate": {"custom_model_data": 8},"model": "item/civilization/hoymodularnetherite"}
   ]
 }

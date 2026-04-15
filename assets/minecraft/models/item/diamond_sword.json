@@ -38,6 +38,7 @@
   {"predicate": {"custom_model_data": 31},"model": "item/titanium_katana"},
   {"predicate": {"custom_model_data": 32},"model": "item/titanium_claymore"},
   {"predicate": {"custom_model_data": 33},"model": "item/civilization/graphenekatana"},
+  {"predicate": {"custom_model_data": 34},"model": "item/civilization/sumarbrander"},
   
   {"predicate": {"custom_model_data": 88},"model": "item/wooden_sword"},
   {"predicate": {"custom_model_data": 89},"model": "item/skin/rustysword"},

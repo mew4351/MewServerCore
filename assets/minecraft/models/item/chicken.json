@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chicken"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/foods/rawchickenbreast"},
+    {"predicate": {"custom_model_data": 2},"model": "item/foods/rawchickendrumstick"}
+	]
+}
