@@ -2491,6 +2491,36 @@
       }
     ]
   },
+  "mob.nightwalker-shriek": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "entity/nightwalker-shriek-1",
+        "stream": true
+      },
+      {
+        "name": "entity/nightwalker-shriek-2",
+        "stream": true
+      }
+    ]
+  },
+  "mob.white-cube-jumpscare": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "entity/white-cube-jumpscare-1",
+        "stream": true
+      },
+      {
+        "name": "entity/white-cube-jumpscare-2",
+        "stream": true
+      },
+      {
+        "name": "entity/white-cube-jumpscare-3",
+        "stream": true
+      }
+    ]
+  },
 
   "mob.jesterwind": {
     "replace": false,
