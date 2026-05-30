@@ -1399,7 +1399,7 @@
   },
   "gun.hand-cannon-shot": {
     "replace": false,
-    "sounds": ["weaponsfx/hand-cannon-shot-1-1"]
+    "sounds": ["weaponsfx/hand-cannon-shot-1"]
   },
   "gun.grenade-cannon-shot": {
     "replace": false,
