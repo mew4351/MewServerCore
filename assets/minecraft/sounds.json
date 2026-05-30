@@ -521,13 +521,90 @@
   },
   "unit.heavybomber.active": {
     "sounds": [
-      { "name": "unit/heavybomber_active1", "stream": true },
-      { "name": "unit/heavybomber_active2", "stream": true },
-      { "name": "unit/heavybomber_active3", "stream": true }
+      { "name": "unit/heavybomber_active1" },
+      { "name": "unit/heavybomber_active2" },
+      { "name": "unit/heavybomber_active3" }
     ]
   },
   "unit.heavybomber.rtb": {
-    "sounds": [{ "name": "unit/heavybomber_rtb", "stream": true }]
+    "sounds": [{ "name": "unit/heavybomber_rtb" }]
+  },
+  "company.assault.multibomb.frag.layer": {
+    "sounds": [
+      { "name": "weaponsfx/multi-bomb-frag-1" },
+      { "name": "weaponsfx/multi-bomb-frag-2" }
+    ]
+  },
+  "anomaly.death-fall.begin": {
+    "sounds": [
+      { "name": "anomaly/death-fall-begin" }
+    ]
+  },
+  "anomaly.stable-obelisk.place": {
+    "sounds": [
+      { "name": "anomaly/obelisk-place" }
+    ]
+  },
+  "anomaly.unstable-obelisk.landed": {
+    "sounds": [
+      { "name": "anomaly/obelisk-land-1" },
+      { "name": "anomaly/obelisk-land-2" }
+    ]
+  },
+  "anomaly.unstable-obelisk.attack": {
+    "sounds": [
+      { "name": "anomaly/obelisklaserfire" }
+    ]
+  },
+  "anomaly.unstable-obelisk.charge": {
+    "sounds": [
+      { "name": "anomaly/obeliskcharging" }
+    ]
+  },
+  "raw.night-vision.charge": {
+    "sounds": [
+      { "name": "raw/night-vision-1" }
+    ]
+  },
+  "raw.electric-sparkling.long": {
+    "sounds": [
+      { "name": "raw/electric-sparkling-1" }
+    ]
+  },
+  "raw.electric-sparkling.short": {
+    "sounds": [
+      { "name": "raw/electric-sparkling-2" }
+    ]
+  },
+  "raw.electric-sparkling.burst": {
+    "sounds": [
+      { "name": "raw/electric-sparkling-burst" }
+    ]
+  },
+  "raw.glitch-burst.cyber": {
+    "sounds": [
+      { "name": "raw/glitch-burst-cyber" }
+    ]
+  },
+  "raw.glitch-burst.end.fade": {
+    "sounds": [
+      { "name": "raw/glitch-burst-end-2" }
+    ]
+  },
+  "raw.glitch-burst.end.phase": {
+    "sounds": [
+      { "name": "raw/glitch-burst-end-1" }
+    ]
+  },
+  "raw.clicking-fly-by": {
+    "sounds": [
+      { "name": "raw/clicking-fly-by" }
+    ]
+  },
+  "raw.hum-riser": {
+    "sounds": [
+      { "name": "raw/hum-riser" }
+    ]
   },
 
   "ping.ping_alert": {
@@ -555,13 +632,9 @@
     "sounds": ["ping/ping_suspect"]
   },
 
-  "gui.click": {
+  "arcanesweeper": {
     "replace": false,
-    "sounds": ["click1"]
-  },
-  "gui.forge": {
-    "replace": false,
-    "sounds": ["forge"]
+    "sounds": ["arcanesweeper"]
   },
   "cardcharged": {
     "replace": false,
@@ -571,33 +644,54 @@
     "replace": false,
     "sounds": ["cosmictakeoff"]
   },
-  "icestormswitch": {
+  "elixirofiron": {
     "replace": false,
-    "sounds": ["icestormswitch"]
+    "sounds": ["elixirofiron"]
   },
   "firestormswitch": {
     "replace": false,
     "sounds": ["firestormswitch"]
   },
-  "elixirofiron": {
-    "replace": false,
-    "sounds": ["elixirofiron"]
-  },
-  "hitmark": {
-    "replace": false,
-    "sounds": ["hitmark"]
-  },
   "guardianangel": {
     "replace": false,
     "sounds": ["guardianangel"]
+  },
+  "gui.click": {
+    "replace": false,
+    "sounds": ["click1"]
+  },
+  "gui.forge": {
+    "replace": false,
+    "sounds": ["forge"]
   },
   "healthpotion": {
     "replace": false,
     "sounds": ["healthpotion"]
   },
-  "arcanesweeper": {
+  "hitmark": {
     "replace": false,
-    "sounds": ["arcanesweeper"]
+    "sounds": ["hitmark"]
+  },
+  "icestormswitch": {
+    "replace": false,
+    "sounds": ["icestormswitch"]
+  },
+  "prefab.place": {
+    "sounds": [
+      { "name": "prefab-place" }
+    ]
+  },
+  "political.edict-issued": {
+    "replace": false,
+    "sounds": ["political/edict-issued"]
+  },
+  "political.edict-issued-martial-law": {
+    "replace": false,
+    "sounds": ["political/edict-issued-martial-law"]
+  },
+  "sfx.anime-wow": {
+    "replace": false,
+    "sounds": ["sfx/anime-wow"]
   },
   "spell_ghost": {
     "replace": false,

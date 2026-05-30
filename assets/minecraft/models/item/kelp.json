@@ -8,6 +8,8 @@
     {"predicate": {"custom_model_data": 1},"model": "item/croptopia/vermillionleaf"},
     {"predicate": {"custom_model_data": 2},"model": "item/croptopia/crimsonleaf"},
     {"predicate": {"custom_model_data": 3},"model": "item/croptopia/tobacco"},
-    {"predicate": {"custom_model_data": 4},"model": "item/croptopia/zychecleaf"}
+    {"predicate": {"custom_model_data": 4},"model": "item/croptopia/zychecleaf"},
+    {"predicate": {"custom_model_data": 5},"model": "item/croptopia/pepper"},
+    {"predicate": {"custom_model_data": 6},"model": "item/croptopia/junglespore"}
     ]
 }

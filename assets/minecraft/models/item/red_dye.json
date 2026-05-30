@@ -24,7 +24,9 @@
     {"predicate": {"custom_model_data": 21},"model": "item/sanguineoflethality"},
     {"predicate": {"custom_model_data": 22},"model": "item/meteorite"},
     {"predicate": {"custom_model_data": 23},"model": "item/meteoriumalloy"},
-    {"predicate": {"custom_model_data": 30},"model": "item/redpill"},
+    {"predicate": {"custom_model_data": 30},"model": "item/foods/rawbrisket"},
+    {"predicate": {"custom_model_data": 31},"model": "item/foods/rawbeefrib"},
+    {"predicate": {"custom_model_data": 32},"model": "item/foods/chucksteak"},
     {"predicate": {"custom_model_data": 40},"model": "item/oc/badblood"}
 	]
 }

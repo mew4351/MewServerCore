@@ -33,6 +33,7 @@
     {"predicate": {"custom_model_data": 26},"model": "item/nitrousbottle2"},
     {"predicate": {"custom_model_data": 27},"model": "item/nitrousbottle3"},
 
+    {"predicate": {"custom_model_data": 29},"model": "item/foods/glasscup"},
     {"predicate": {"custom_model_data": 30},"model": "item/antibiotic"},
     {"predicate": {"custom_model_data": 31},"model": "item/redinjection"},
     {"predicate": {"custom_model_data": 32},"model": "item/orangeinjection"},
@@ -51,6 +52,18 @@
     {"predicate": {"custom_model_data": 56},"model": "item/potion/investigatepotion"},
     {"predicate": {"custom_model_data": 57},"model": "item/potion/blowjumppotion"},
     {"predicate": {"custom_model_data": 58},"model": "item/potion/psychicpotion"},
-    {"predicate": {"custom_model_data": 59},"model": "item/potion/greatpsychicpotion"}
+    {"predicate": {"custom_model_data": 59},"model": "item/potion/greatpsychicpotion"},
+    {"predicate": {"custom_model_data": 60},"model": "item/foods/espresso"},
+    {"predicate": {"custom_model_data": 61},"model": "item/foods/doppio"},
+    {"predicate": {"custom_model_data": 62},"model": "item/foods/mocha"},
+    {"predicate": {"custom_model_data": 63},"model": "item/foods/latte"},
+    {"predicate": {"custom_model_data": 64},"model": "item/foods/cappuccino"},
+    {"predicate": {"custom_model_data": 65},"model": "item/foods/macchiato"},
+    {"predicate": {"custom_model_data": 66},"model": "item/foods/blackcoffee"},
+    {"predicate": {"custom_model_data": 67},"model": "item/foods/streamedmilk"},
+    {"predicate": {"custom_model_data": 68},"model": "item/foods/milkfoam"},
+    {"predicate": {"custom_model_data": 69},"model": "item/foods/oliveoil"},
+    {"predicate": {"custom_model_data": 70},"model": "item/foods/laundanum"},
+    {"predicate": {"custom_model_data": 71},"model": "item/foods/euphora"}
 	]
 }

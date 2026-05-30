@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_beef"
+    },
+    "overrides":
+	[
+    {"predicate": {"custom_model_data": 1},"model": "item/foods/grilledbrisket"},
+    {"predicate": {"custom_model_data": 2},"model": "item/foods/grilledbeefrib"},
+    {"predicate": {"custom_model_data": 3},"model": "item/foods/grilledchucksteak"},
+    {"predicate": {"custom_model_data": 4},"model": "item/foods/pemmican"}
+	]
+}

@@ -22,6 +22,7 @@
     {"predicate": {"custom_model_data": 15},"model": "item/equipment_mod/echoguardianaegis"},
     {"predicate": {"custom_model_data": 21},"model": "item/carboniumchunk"},
     {"predicate": {"custom_model_data": 22},"model": "item/graphene"},
+    {"predicate": {"custom_model_data": 23},"model": "item/prime/heatshieldblock"},
     {"predicate": {"custom_model_data": 30},"model": "item/blackpill"},
     {"predicate": {"custom_model_data": 31},"model": "item/prime/tarbomb"}
     
