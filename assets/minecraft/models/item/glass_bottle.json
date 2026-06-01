@@ -63,7 +63,8 @@
     {"predicate": {"custom_model_data": 67},"model": "item/foods/streamedmilk"},
     {"predicate": {"custom_model_data": 68},"model": "item/foods/milkfoam"},
     {"predicate": {"custom_model_data": 69},"model": "item/foods/oliveoil"},
-    {"predicate": {"custom_model_data": 70},"model": "item/foods/laundanum"},
-    {"predicate": {"custom_model_data": 71},"model": "item/foods/euphora"}
+    {"predicate": {"custom_model_data": 70},"model": "item/foods/laudanum"},
+    {"predicate": {"custom_model_data": 71},"model": "item/foods/euphora"},
+    {"predicate": {"custom_model_data": 72},"model": "item/foods/americano"}
 	]
 }
